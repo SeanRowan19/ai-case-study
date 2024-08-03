@@ -38,7 +38,7 @@ AI built to to benefit a company across all processes.
 
 ### Supply Chain
 
-![Supply Chain](supply chain.png)
+![Supply Chain](supplychain.png)
 
 ### Procurement
 
