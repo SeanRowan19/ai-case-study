@@ -28,20 +28,29 @@ SAP helps companies and organizations of all sizes and industries run their busi
 
 </h4>
 
-SAP offers solutions across a wide range of areas:
-Cloud ERP, 
-Business Technology Platform, 
-[Artificial Intelligence](https://www.sap.com/products/artificial-intelligence.html),
-Supply Chain Management, 
-Financial Management,
-CRM and Customer Experience,
-Spend Management,
-Human Capital Management,
-Small and Midsize Enterprises,
-Industry Solutions, and
-Business Network.
+### Solutions Offerred
 
-<iframe width="1056" height="594" src="https://www.youtube.com/embed/g-UaUrETB1E" title="The Origin of SAP: The Perfect First Customer (SAP celebrate 50 years)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Cloud ERP, 
+
+Business Technology Platform, 
+
+[Artificial Intelligence](https://www.sap.com/products/artificial-intelligence.html),
+
+Supply Chain Management, 
+
+Financial Management,
+
+CRM and Customer Experience,
+
+Spend Management,
+
+Human Capital Management,
+
+Small and Midsize Enterprises,
+
+Industry Solutions, and
+
+Business Network.
 
 ## Business Activities
 
