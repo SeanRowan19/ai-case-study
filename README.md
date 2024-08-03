@@ -4,7 +4,7 @@
 
 <h2 align="center">
 
-![SAP Logo](/Users/SeanRowan/Desktop/ai-case-study/download.png)
+![SAP Logo](download.png)
 
 </h2>
 
