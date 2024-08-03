@@ -77,7 +77,9 @@ AI built to benefit a company across all processes.
 
 ### Customers
 
-<a href="https://www.sap.com/assetdetail/2023/12/7879d188-9e7e-0010-bca6-c68f7e60039b.html">![Chobani](chobani-customer-logo.png =100X20)
+<a href="https://www.sap.com/assetdetail/2023/12/7879d188-9e7e-0010-bca6-c68f7e60039b.html">![Chobani](chobani-customer-logo.png)
+
+<img src="chobani-customer-logo.png" width="200">
 
 75% reduction in time spent on expenses
 
