@@ -12,7 +12,7 @@ On April 1, 1972, five former IBM employees - Dietmar Hopp, Hasso Plattner, Clau
 
 <h3 align="center">
 
-[![The History of SAP](saphistory.jpeg)](https://youtu.be/g-UaUrETB1E)
+[![The History of SAP](historypic.jpg)](https://youtu.be/g-UaUrETB1E)
 
 </h3>
 
