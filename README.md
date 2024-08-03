@@ -77,11 +77,11 @@ AI built to benefit a company across all processes.
 
 ### Customers
 
-<img src="chobani-customer-logo.png" width="200">
+<img src="chobani-customer-logo.png" width="200" height="150">
 
 75% reduction in time spent on expenses
 
-<img src="Accenture-customer-logo.png" width="200">
+<img src="Accenture-customer-logo.png" width="200"height="150">
 
 80% increase in automatic cash processing
 
