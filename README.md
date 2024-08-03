@@ -77,25 +77,23 @@ AI built to benefit a company across all processes.
 
 ### Customers
 
-<a href="https://www.sap.com/assetdetail/2023/12/7879d188-9e7e-0010-bca6-c68f7e60039b.html">![Chobani](chobani-customer-logo.png)
-
 <img src="chobani-customer-logo.png" width="200">
 
 75% reduction in time spent on expenses
 
-<a href="https://www.sap.com/documents/2022/10/0023e3d1-497e-0010-bca6-c68f7e60039b.html">![Accenture](Accenture-customer-logo.png)
+<img src="Accenture-customer-logo.png" width="200">
 
 80% increase in automatic cash processing
 
-<a href="https://www.sap.com/assetdetail/2024/02/c24abc0c-b07e-0010-bca6-c68f7e60039b.html">![Delta](delta-customer-logo.png)
+<img src="delta-customer-logo.png)" width="200">
 
 Building a skills-based organization
 
-<a href="https://www.sap.com/asset/dynamic/2023/07/c4e4d3c9-807e-0010-bca6-c68f7e60039b.html">![Team Liquid](team-liquid-customer-logo.png)
+<img src="team-liquid-customer-logo.png)" width="200">
 
 1.6 terabytes of historical game data analyzed
 
-<a href="https://www.sap.com/assetdetail/2024/05/fc662a8d-c57e-0010-bca6-c68f7e60039b.html">![Henkel](henkel-customer-logo.svg)
+<img src="henkel-customer-logo.svg)" width="200">
 
 Significantly reduced planning process times
 
