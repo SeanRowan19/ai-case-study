@@ -77,25 +77,23 @@ AI built to benefit a company across all processes.
 
 ### Customers
 
-<img src="chobani-customer-logo.png" width="200" height="150">
+<img src="chobani-customer-logo.png" width="200" height="50">
 
 75% reduction in time spent on expenses
 
-<img src="Accenture-customer-logo.png" width="200"height="150">
+<img src="Accenture-customer-logo.png" width="200" height="50">
 
 80% increase in automatic cash processing
 
-<img src="delta-customer-logo.png" width="200">
+<img src="delta-customer-logo.png" width="200" height="50">
 
 Building a skills-based organization
 
-
-<img src="team-liquid-customer-logo.png" width="200">
+<img src="team-liquid-customer-logo.png" width="200" height="50">
 
 1.6 terabytes of historical game data analyzed
 
-
-<img src="henkel-customer-logo.svg" width="200">
+<img src="henkel-customer-logo.svg" width="200" height="50">
 
 Significantly reduced planning process times
 
