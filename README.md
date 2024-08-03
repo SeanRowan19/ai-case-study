@@ -28,39 +28,45 @@ SAP helps companies and organizations of all sizes and industries run their busi
 
 </h4>
 
-## [AI Built for Business](https://www.sap.com/products/artificial-intelligence.html)
+## [SAP Business AI](https://www.sap.com/products/artificial-intelligence.html)
 
 AI built to to benefit a company across all processes. 
 
-### ERP and Finance
+### Core Business Processes
+
+#### ERP and Finance
 
 ![ERP](erp.png)
 
-### Supply Chain
+#### Supply Chain
 
 ![Supply Chain](supplychain.png)
 
-### Procurement
+#### Procurement
 
 ![Procurement](procurement.png)
 
-### Human Resources
+#### Human Resources
 
 ![HR](hr.png)
 
-### Sales and Marketing
+#### Sales and Marketing
 
 ![SM](sm.png)
 
-### IT and Platform
+#### IT and Platform
 
 ![IT](last.png)
 
-### Industries
+#### Industries
 
 ![Industries](Industries.png)
 
-## Landscape
+### [Joule](https://www.sap.com/products/artificial-intelligence/ai-assistant.html)
+
+Joule revolutionizes how you interact with your SAP business systems, making every touchpoint count and every task simpler.
+
+### Customers
 
 ## Results
 
