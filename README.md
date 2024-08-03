@@ -89,9 +89,11 @@ AI built to benefit a company across all processes.
 
 Building a skills-based organization
 
+
 <img src="team-liquid-customer-logo.png" width="200">
 
 1.6 terabytes of historical game data analyzed
+
 
 <img src="henkel-customer-logo.svg" width="200">
 
