@@ -4,7 +4,9 @@
 
 <h2 align="center">
 
-<a href="https://www.sap.com/index.html"><download.png>
+<download.png>
+
+<a href="https://www.sap.com/index.html">
 
 </h2>
 
