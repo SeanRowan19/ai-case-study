@@ -4,8 +4,6 @@
 
 <h2 align="center">
 
-<a href="https://www.sap.com/index.html"> </Users/SeanRowan/Desktop/ai-case-study/download.png>
-
 ![SAP Logo](/Users/SeanRowan/Desktop/ai-case-study/download.png)
 
 </h2>
