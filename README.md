@@ -34,7 +34,7 @@ AI built to to benefit a company across all processes.
 
 ### ERP and Finance
 
-![ERP]()
+![ERP](erp.png)
 
 ### Supply Chain
 
@@ -55,6 +55,10 @@ AI built to to benefit a company across all processes.
 ### IT and Platform
 
 ![IT]()
+
+### Industries
+
+![Industries](Industries.png)
 
 ## Landscape
 
