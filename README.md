@@ -65,22 +65,15 @@ AI built to to benefit a company across all processes.
 ### [Joule](https://www.sap.com/products/artificial-intelligence/ai-assistant.html)
 
 [Joule](Joule.pdf) is revolutionizing how you interact with your SAP business systems:
-
-1. Transform the sourcing events process with guidance from Joule, while benefiting from recommendations on relevant suppliers and appropriate items. Increase your efficiency as you publish events up to 50% faster compared to using manual templates. (https://www.sap.com/products/spend-management/category-management-software.html#gen-ai)
-2. Create audience segments up to 90% faster with Joule. Utilize natural language and generative AI to effortlessly create journeys, segments, and indicators. Focus more on strategy and creativity, while leaving the technical aspects of segment creation to Joule. (https://www.sap.com/products/crm/customer-data-platform.html)
-3. Drive intelligent HR self-service capabilities (https://www.sap.com/products/hcm/ai-joule-product-tour.html)
-
-Smart features for planning and analytics (https://www.sap.com/products/technology-platform/cloud-analytics/features/generative-ai.html)
-
-Level up developer productivity (https://www.sap.com/products/technology-platform/developer-tools.html)
-
-Maximize the efficiency of your business operations (https://www.sap.com/products/erp/s4hana/innovations.html)
-
-Help sales reps find the optimal product configurations (https://www.sap.com/assetdetail/2024/05/88cc6321-c07e-0010-bca6-c68f7e60039b.html)
-
-Configure and manage your SAP BTP applications, services, and subaccounts (https://www.sap.com/products/artificial-intelligence/business-technology-platform.html)
-
-Analyze supply chain performance and suggest improvements (https://www.sap.com/products/artificial-intelligence/supply-chain.html#plan)
+1. [Streamline and automate sourcing events](https://www.sap.com/products/spend-management/category-management-software.html#gen-ai)
+2. [Accelerate audience segmentations](https://www.sap.com/products/crm/customer-data-platform.html)
+3. [Drive intelligent HR self-service capabilities](https://www.sap.com/products/hcm/ai-joule-product-tour.html)
+4. [Smart features for planning and analytics](https://www.sap.com/products/technology-platform/cloud-analytics/features/generative-ai.html)
+5. [Level up developer productivity](https://www.sap.com/products/technology-platform/developer-tools.html)
+6. [Maximize the efficiency of your business operations](https://www.sap.com/products/erp/s4hana/innovations.html)
+7. [Help sales reps find the optimal product configurations](https://www.sap.com/assetdetail/2024/05/88cc6321-c07e-0010-bca6-c68f7e60039b.html)
+8. [Configure and manage your SAP BTP applications, services, and subaccounts](https://www.sap.com/products/artificial-intelligence/business-technology-platform.html)
+9. [Analyze supply chain performance and suggest improvements](https://www.sap.com/products/artificial-intelligence/supply-chain.html#plan)
 
 ### Customers
 
