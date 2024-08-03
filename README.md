@@ -77,23 +77,23 @@ AI built to benefit a company across all processes.
 
 ### Customers
 
-![Chobani](chobani-customer-logo.png)(https://www.sap.com/assetdetail/2023/12/7879d188-9e7e-0010-bca6-c68f7e60039b.html)
+<a href="https://www.sap.com/assetdetail/2023/12/7879d188-9e7e-0010-bca6-c68f7e60039b.html">![Chobani](chobani-customer-logo.png)
 
 75% reduction in time spent on expenses
 
-![Accenture](Accenture-customer-logo.png)(https://www.sap.com/documents/2022/10/0023e3d1-497e-0010-bca6-c68f7e60039b.html)
+<a href="https://www.sap.com/documents/2022/10/0023e3d1-497e-0010-bca6-c68f7e60039b.html">![Accenture](Accenture-customer-logo.png)
 
 80% increase in automatic cash processing
 
-![Delta](delta-customer-logo.png)(https://www.sap.com/assetdetail/2024/02/c24abc0c-b07e-0010-bca6-c68f7e60039b.html)
+<a href="https://www.sap.com/assetdetail/2024/02/c24abc0c-b07e-0010-bca6-c68f7e60039b.html">![Delta](delta-customer-logo.png)
 
 Building a skills-based organization
 
-![Team Liquid](team-liquid-customer-logo.png)(https://www.sap.com/asset/dynamic/2023/07/c4e4d3c9-807e-0010-bca6-c68f7e60039b.html)
+<a href="https://www.sap.com/asset/dynamic/2023/07/c4e4d3c9-807e-0010-bca6-c68f7e60039b.html">![Team Liquid](team-liquid-customer-logo.png)
 
 1.6 terabytes of historical game data analyzed
 
-![Henkel](henkel-customer-logo.svg)(https://www.sap.com/assetdetail/2024/05/fc662a8d-c57e-0010-bca6-c68f7e60039b.html)
+<a href="https://www.sap.com/assetdetail/2024/05/fc662a8d-c57e-0010-bca6-c68f7e60039b.html">![Henkel](henkel-customer-logo.svg)
 
 Significantly reduced planning process times
 
