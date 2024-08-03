@@ -4,7 +4,7 @@
 
 <h2 align="center">
 
-<a href="https://www.sap.com/index.html">![SAP Logo](download.png)
+<a href="https://www.sap.com/index.html">![SAP Logo](newsaplogo.jpeg)
 
 </h2>
 
