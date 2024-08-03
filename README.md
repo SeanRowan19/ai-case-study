@@ -28,23 +28,23 @@ SAP helps companies and organizations of all sizes and industries run their busi
 
 </h4>
 
-### Solutions Offerred
-
-Cloud ERP
-Business Technology Platform
-[Artificial Intelligence](https://www.sap.com/products/artificial-intelligence.html)
-Supply Chain Management
-Financial Management
-CRM and Customer Experience
-Spend Management
-Human Capital Management
-Small and Midsize Enterprises
-Industry Solutions
-Business Network
-
 ## Business Activities
 
-AI Built for Business 
+[AI Built for Business](https://www.sap.com/products/artificial-intelligence.html)
+
+AI built to to benefit a company across all processes. 
+
+ERP and Finance
+
+Supply Chain
+
+Procurement
+
+Human Resources
+
+Sales and Marketing
+
+IT and Platform
 
 
 
