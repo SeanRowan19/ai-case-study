@@ -8,11 +8,17 @@
 
 </h2>
 
-![The History of SAP](saphistory.jpeg)
-
-[!watch video](ttps://youtu.be/g-UaUrETB1E)
+![The History of SAP](saphistory.jpeg)(ttps://youtu.be/g-UaUrETB1E)
 
 On April 1, 1972, five former IBM employees - Dietmar Hopp, Hasso Plattner, Claus Wellenreuther, Klaus Tschira, and Hans-Werner Hector - started the company SystemAnalyse Programmentwicklung (System Analysis Program Development). Their idea was to create standard enterprise software that integrated all business processes and enabled data processing in real time.
+
+Starting with one customer and a handful of employees, SAP set out on a path that would not only transform the world of information technology. but also forever alter the way companies do business. Now 50 years and more than 400,000 customers stronger, more than ever, SAP is fueled by the pioneering spirit that inspired its founders to continually transform the industry.
+
+<h3 align="center">
+
+![SAP Timeline](hitory-sap-timeline.jpg)
+
+</h3>
 
 The name is an initialism of the company’s original German name: Systemanalyse Programmentwicklung, which translates to System Analysis Program Development. Today the company’s legal corporate name is SAP SE — SE stands for societas Europaea, a public company registered in accordance with the European Union corporate law.
 
