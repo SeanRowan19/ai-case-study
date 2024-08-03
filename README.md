@@ -36,16 +36,27 @@ AI built to to benefit a company across all processes.
 
 ERP and Finance
 
+![ERP]()
+
 Supply Chain
+
+![Supply Chain](supply chain.png)
 
 Procurement
 
+![Procurement](procurement.png)
+
 Human Resources
+
+![HR]()
 
 Sales and Marketing
 
+![SM]()
+
 IT and Platform
 
+![IT]()
 
 
 ## Landscape
