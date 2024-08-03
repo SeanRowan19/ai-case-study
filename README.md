@@ -97,6 +97,11 @@ Building a skills-based organization
 
 Significantly reduced planning process times
 
+| Syntax | Description |
+| ------- | -------  |
+| Customer | SAP Impact |
+| Chobani | 75% reduction in time spent on expenses |
+
 ## Results
 
 ## Recommendations
