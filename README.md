@@ -8,7 +8,7 @@
 
 </h2>
 
-![The History of SAP](sap history.jpeg)
+![The History of SAP](saphistory.jpeg)
 
 [!watch video](ttps://youtu.be/g-UaUrETB1E)
 
