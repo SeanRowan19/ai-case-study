@@ -64,13 +64,11 @@ AI built to to benefit a company across all processes.
 
 ### [Joule](https://www.sap.com/products/artificial-intelligence/ai-assistant.html)
 
-[Joule](Joule.pdf) revolutionizes how you interact with your SAP business systems.
+[Joule](Joule.pdf) is revolutionizing how you interact with your SAP business systems:
 
-Transform the sourcing events process with guidance from Joule, while benefiting from recommendations on relevant suppliers and appropriate items. Increase your efficiency as you publish events up to 50% faster compared to using manual templates. (https://www.sap.com/products/spend-management/category-management-software.html#gen-ai)
-
-Create audience segments up to 90% faster with Joule. Utilize natural language and generative AI to effortlessly create journeys, segments, and indicators. Focus more on strategy and creativity, while leaving the technical aspects of segment creation to Joule. (https://www.sap.com/products/crm/customer-data-platform.html)
-
-Drive intelligent HR self-service capabilities (https://www.sap.com/products/hcm/ai-joule-product-tour.html)
+1. Transform the sourcing events process with guidance from Joule, while benefiting from recommendations on relevant suppliers and appropriate items. Increase your efficiency as you publish events up to 50% faster compared to using manual templates. (https://www.sap.com/products/spend-management/category-management-software.html#gen-ai)
+2. Create audience segments up to 90% faster with Joule. Utilize natural language and generative AI to effortlessly create journeys, segments, and indicators. Focus more on strategy and creativity, while leaving the technical aspects of segment creation to Joule. (https://www.sap.com/products/crm/customer-data-platform.html)
+3. Drive intelligent HR self-service capabilities (https://www.sap.com/products/hcm/ai-joule-product-tour.html)
 
 Smart features for planning and analytics (https://www.sap.com/products/technology-platform/cloud-analytics/features/generative-ai.html)
 
