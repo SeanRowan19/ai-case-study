@@ -54,7 +54,7 @@ AI built to to benefit a company across all processes.
 
 ### IT and Platform
 
-![IT]()
+![IT](last.png)
 
 ### Industries
 
