@@ -77,8 +77,6 @@ AI built to benefit a company across all processes.
 
 ### Customers
 
-<h5 align="center">
-
 | **Customer** | **SAP Impact** |
 | ------- | ------- |
 | <img src="chobani-customer-logo.png" width="100" height="25"> | 75% reduction in time spent on expenses |
@@ -87,8 +85,14 @@ AI built to benefit a company across all processes.
 | <img src="team-liquid-customer-logo.png" width="100" height="25"> | 1.6 terabytes of historical game data analyzed |
 | <img src="henkel-customer-logo.svg" width="100" height="25">| Significantly reduced planning process times |
 
-</h5>
+## Landscape
 
 ## Results
 
-## Recommendations
+## [Learning](https://learning.sap.com/)
+
+SAP offers various options to understand how to use the software best suited for your company:
+1. [Former openSAP courses](https://learning.sap.com/courses?page=1&subtype=mooc-content&url_id=text-lsc-homepage)
+2. [Content for SAP parners](https://learning.sap.com/partners)
+3. [SAP Learning Hub](https://www.sap.com/training-certification/learning-hub.html)
+4. [SAP Certifications](https://learning.sap.com/certification-transformation)
