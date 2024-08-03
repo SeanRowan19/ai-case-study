@@ -4,7 +4,7 @@
 
 <h2 align="center">
 
-<a href="https://www.sap.com/index.html"><https://github.com/SeanRowan19/ai-case-study/blob/main/download.png?raw=true>
+<a href="https://www.sap.com/index.html"><download.png>
 
 </h2>
 
