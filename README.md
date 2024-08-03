@@ -28,36 +28,33 @@ SAP helps companies and organizations of all sizes and industries run their busi
 
 </h4>
 
-## Business Activities
-
-[AI Built for Business](https://www.sap.com/products/artificial-intelligence.html)
+## [AI Built for Business](https://www.sap.com/products/artificial-intelligence.html)
 
 AI built to to benefit a company across all processes. 
 
-ERP and Finance
+### ERP and Finance
 
 ![ERP]()
 
-Supply Chain
+### Supply Chain
 
 ![Supply Chain](supply chain.png)
 
-Procurement
+### Procurement
 
 ![Procurement](procurement.png)
 
-Human Resources
+### Human Resources
 
 ![HR]()
 
-Sales and Marketing
+### Sales and Marketing
 
 ![SM]()
 
-IT and Platform
+### IT and Platform
 
 ![IT]()
-
 
 ## Landscape
 
