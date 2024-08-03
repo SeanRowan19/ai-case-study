@@ -6,7 +6,8 @@
 
 download.png
 </h2>
-[The History of SAP.] (https://www.sap.com/about/company/history.html)
+
+[The History of SAP](https://www.sap.com/about/company/history.html)
 
 On April 1, 1972, five former IBM employees - Dietmar Hopp, Hasso Plattner, Claus Wellenreuther, Klaus Tschira, and Hans-Werner Hector - started the company SystemAnalyse Programmentwicklung (System Analysis Program Development). Their idea was to create standard enterprise software that integrated all business processes and enabled data processing in real time.
 
