@@ -85,15 +85,15 @@ AI built to benefit a company across all processes.
 
 80% increase in automatic cash processing
 
-<img src="delta-customer-logo.png)" width="200">
+<img src="delta-customer-logo.png" width="200">
 
 Building a skills-based organization
 
-<img src="team-liquid-customer-logo.png)" width="200">
+<img src="team-liquid-customer-logo.png" width="200">
 
 1.6 terabytes of historical game data analyzed
 
-<img src="henkel-customer-logo.svg)" width="200">
+<img src="henkel-customer-logo.svg" width="200">
 
 Significantly reduced planning process times
 
