@@ -46,11 +46,11 @@ AI built to to benefit a company across all processes.
 
 ### Human Resources
 
-![HR]()
+![HR](hr.png)
 
 ### Sales and Marketing
 
-![SM]()
+![SM](sm.png)
 
 ### IT and Platform
 
