@@ -6,7 +6,7 @@
 
 <a href="https://www.sap.com/index.html">![SAP Logo](download.png)
 
-[!The History of SAP](saphistory.jpeg)](https://youtu.be/g-UaUrETB1E)
+[![The History of SAP](saphistory.jpeg)](https://youtu.be/g-UaUrETB1E)
 
 </h2>
 
