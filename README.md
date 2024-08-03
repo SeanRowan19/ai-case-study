@@ -81,7 +81,7 @@ AI built to benefit a company across all processes.
 
 75% reduction in time spent on expenses
 
-<img src="Accenture-customer-logo.png" width="200" height="50">
+<img src="Accenture-customer-logo.png" width="200" height="75>
 
 80% increase in automatic cash processing
 
