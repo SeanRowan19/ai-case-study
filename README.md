@@ -30,11 +30,11 @@ SAP helps companies and organizations of all sizes and industries run their busi
 
 ## [SAP Business AI](https://www.sap.com/products/artificial-intelligence.html)
 
-AI built to to benefit a company across all processes. 
+AI built to benefit a company across all processes. 
 
 ### Core Business Processes
 
-#### ERP and Finance
+#### **ERP and Finance**
 
 ![ERP](erp.png)
 
