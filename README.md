@@ -64,9 +64,7 @@ AI built to to benefit a company across all processes.
 
 ### [Joule](https://www.sap.com/products/artificial-intelligence/ai-assistant.html)
 
-Joule revolutionizes how you interact with your SAP business systems.
-
-[Joule Infosheet](Joule.pdf)
+[Joule](Joule.pdf) revolutionizes how you interact with your SAP business systems.
 
 Transform the sourcing events process with guidance from Joule, while benefiting from recommendations on relevant suppliers and appropriate items. Increase your efficiency as you publish events up to 50% faster compared to using manual templates. (https://www.sap.com/products/spend-management/category-management-software.html#gen-ai)
 
