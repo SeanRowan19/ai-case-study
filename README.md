@@ -75,7 +75,7 @@ AI built to benefit a company across all processes.
 8. [Configure and manage your SAP BTP applications, services, and subaccounts](https://www.sap.com/products/artificial-intelligence/business-technology-platform.html)
 9. [Analyze supply chain performance and suggest improvements](https://www.sap.com/products/artificial-intelligence/supply-chain.html#plan)
 
-### Customers
+### Customers Satisfaction
 
 | **Customer** | **SAP Impact** |
 | ------- | ------- |
@@ -86,6 +86,24 @@ AI built to benefit a company across all processes.
 | <img src="henkel-customer-logo.svg" width="100" height="25">| Significantly reduced planning process times |
 
 ## Landscape
+
+### Major Competitors
+1. ![Microsoft](microsoft_business-intelligence-analytics-platforms.png)
+2. ![Oracle](oracle_1616716149771.png)
+3. ![IBM](ibm_analytics-business-intelligence-platforms_1616927517897.png)
+4. ![Salesforce (Tableau)](tableau_business-intelligence-analytics-platforms.png)
+5. ![SAS](sas_1695845087374.png)
+6. ![MicroStrategy](microstrategy_1698078581784.png)
+7. ![Qlik](qlik_analytics-business-intelligence-platforms_1714139444030.png)
+8. ![Amazon Web Services (AWS)](amazon-web-services_1660165755780.png)
+9. ![Google](google_enterprise-mobility-management-suites.png)
+10. ![Zoho](zoho_1693496255934.png)
+
+### Customers Satisfaction
+
+### Customers Satisfaction
+
+### Customers Satisfaction
 
 ## Results
 
