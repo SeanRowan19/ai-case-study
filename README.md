@@ -66,7 +66,7 @@
 
 ### [Joule](https://www.sap.com/products/artificial-intelligence/ai-assistant.html)
 
-> [Joule](Joule.pdf) is revolutionizing how you interact with your SAP business systems:
+> [Joule](Joule.pdf) is an AI copilot that truly understands your business and will revolutionize how you interact with your SAP business systems:
 1. [Streamline and automate sourcing events](https://www.sap.com/products/spend-management/category-management-software.html#gen-ai)
 2. [Accelerate audience segmentations](https://www.sap.com/products/crm/customer-data-platform.html)
 3. [Drive intelligent HR self-service capabilities](https://www.sap.com/products/hcm/ai-joule-product-tour.html)
