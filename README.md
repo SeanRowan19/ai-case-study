@@ -66,7 +66,7 @@
 
 ### [Joule](https://www.sap.com/products/artificial-intelligence/ai-assistant.html)
 
-> [Joule](Joule.pdf) is an AI copilot that truly understands your business and will revolutionize how you interact with your SAP business systems:
+> [Joule](Joule.pdf) is a generative AI copilot that truly understands your business and will revolutionize how you interact with your SAP business systems:
 1. [Streamline and automate sourcing events](https://www.sap.com/products/spend-management/category-management-software.html#gen-ai)
 2. [Accelerate audience segmentations](https://www.sap.com/products/crm/customer-data-platform.html)
 3. [Drive intelligent HR self-service capabilities](https://www.sap.com/products/hcm/ai-joule-product-tour.html)
@@ -174,6 +174,22 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 ## Results
 
+### [Impact on the Software and IT Services Industry](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time.)
+
+> SAP has changed the Software and IT Services Industry over the last fifty plus years and has consistently sought to drive positive change through technological innovation, helping companies all over the world transform their business models, focus on sustainability, and improve their productivity. 
+
+### [SAP use of AI's Impact of the Accounting and Finance Industries](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time.)
+
+[Based on research by Goldman Sachs, "AI could drive a 7% increase in global GDP over a ten-year period."](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf)
+
+> SAP began embedding AI into its own application landscape in the mid-2010s, making machine learning and chatbots available in enterprise applications for the first time. SAP's primary aim and strategy has always been to leverage technology to help solve specific problems and to simplify business processes. It wants humans to stay front and center and be empowered to make informed decisions. 
+
+> AI has a great many practical applications, and takes many forms. No single AI tool can solve every problem, and SAP clearly distinguishes which of the tools provides the best result for a given use case. Its extensive expertise and industry know-how, paired with an in-depth knowledge of business processes, put SAP miles ahead of the competition: it has already integrated more than 130 AI innovations and functions into its applications. These are currently being leveraged by upwards of 24,000 customers across multiple scenarios – though users are mostly unaware that AI is helping them with their everyday tasks.
+
+> SAP recently launched SAP Business AI that is developed using SAP’s deep process knowledge and a global pool of industry-specific data, customers using cloud applications from SAP stand to benefit from it enormously. SAP Business AI is therefore a key component of all SAP business applications in the cloud. It is designed to be a reliable partner that supports and enhances the human experience. Leveraging the new capabilities AI delivers, our customers will gain credible insights into their processes and be empowered to automate them more easily – in finance, logistics, procurement, sales, and human resources.
+
+>“Generative artificial intelligence” has been on everyone's lips over the last year or so. It’s the next big thing in technology. SAP is currently exploring a host of use cases and ideas that leverage this new technology, with the main aim being to infuse our product portfolio with AI to make it even more powerful and valuable for customers.
+
 ## Recommendations
 
 ## [Learning](https://learning.sap.com/)
@@ -203,4 +219,9 @@ Future Uses of AI in the Accounting and Finance Industries
 
 Competitors
 1. [Forbes](https://www.forbes.com/advisor/business/software/sap-competitors/#:~:text=There%20are%20many%20SAP%20competitors,about%20the%20best%20ERP%20systems.)
-.2 [Gartner](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/sap/alternatives)
+2. [Gartner](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/sap/alternatives)
+
+Results
+1. [SAP Cover Story](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time.)
+2. [Goldman Sachs Research](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf)
+3. [SAP Invests $1.1B to Become Leader in Business AI](https://accelerationeconomy.com/cloud-wars/cloud-wars-minute/sap-invests-1-1b-to-become-leader-in-business-ai/)
