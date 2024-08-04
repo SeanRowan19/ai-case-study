@@ -183,3 +183,19 @@ SAP offers various options to understand how to use the software best suited for
 2. [Content for SAP partners](https://learning.sap.com/partners)
 3. [SAP Learning Hub](https://www.sap.com/training-certification/learning-hub.html)
 4. [SAP Certifications](https://learning.sap.com/certification-transformation)
+
+## Sources
+
+[SAP](https://www.sap.com/index.html)
+
+[Timeline](https://skillstek.com/what-is-sap/)
+
+Trends
+1. [Controllers Council](https://controllerscouncil.org/top-12-accounting-trends-in-2024-navigating-the-future-of-finance/)
+2. [Future of accounting: Top 11 accounting trends](https://contentsnare.com/top-accounting-trends/)
+
+[Role of AI in Accounting and Finance] (https://innovatureinc.com/role-of-ai-in-accounting-and-finance/)
+
+Competitors
+1. [Forbes](https://www.forbes.com/advisor/business/software/sap-competitors/#:~:text=There%20are%20many%20SAP%20competitors,about%20the%20best%20ERP%20systems.)
+.2 [Gartner](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/sap/alternatives)
