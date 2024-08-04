@@ -88,16 +88,55 @@ AI built to benefit a company across all processes.
 ## Landscape
 
 ### Major Competitors
-1. ![Microsoft](microsoft_business-intelligence-analytics-platforms.png)
-2. ![Oracle](oracle_1616716149771.png)
-3. ![IBM](ibm_analytics-business-intelligence-platforms_1616927517897.png)
-4. ![Salesforce (Tableau)](tableau_business-intelligence-analytics-platforms.png)
-5. ![SAS](sas_1695845087374.png)
-6. ![MicroStrategy](microstrategy_1698078581784.png)
-7. ![Qlik](qlik_analytics-business-intelligence-platforms_1714139444030.png)
-8. ![Amazon Web Services (AWS)](amazon-web-services_1660165755780.png)
-9. ![Google](google_enterprise-mobility-management-suites.png)
-10. ![Zoho](zoho_1693496255934.png)
+
+<img src="microsoft_business-intelligence-analytics-platforms.png" width="100" height="30">
+
+[![Microsoft](microsoftrating.png)](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/microsoft)
+-----
+
+<img src="oracle_1616716149771.png" width="100" height="100">
+
+
+-----
+
+<img src="ibm_analytics-business-intelligence-platforms_1616927517897.png" width="100" height="80">
+
+
+-----
+
+<img src="tableau_business-intelligence-analytics-platforms.png" width="100" height="30">
+
+
+-----
+
+<img src="sas_1695845087374.png" width="100" height="30">
+
+
+-----
+
+<img src="microstrategy_1698078581784.png" width="100" height="30">
+
+
+-----
+
+<img src="qlik_analytics-business-intelligence-platforms_1714139444030.png" width="100" height="30">
+
+
+-----
+
+<img src="amazon-web-services_1660165755780.png" width="100" height="30">
+
+
+-----
+
+<img src="google_enterprise-mobility-management-suites.png" width="100" height="30">
+
+
+-----
+
+<img src="zoho_1693496255934.png" width="100" height="30">
+
+
 
 ### Customers Satisfaction
 
