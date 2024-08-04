@@ -8,7 +8,7 @@
 
 </h2>
 
-> On April 1, 1972, five former IBM employees - Dietmar Hopp, Hasso Plattner, Claus Wellenreuther, Klaus Tschira, and Hans-Werner Hector - started the company SystemAnalyse Programmentwicklung (System Analysis Program Development). Their idea was to create standard enterprise software that integrated all business processes and enabled data processing in real time.
+On April 1, 1972, five former IBM employees - Dietmar Hopp, Hasso Plattner, Claus Wellenreuther, Klaus Tschira, and Hans-Werner Hector - started the company SystemAnalyse Programmentwicklung (System Analysis Program Development). Their idea was to create standard enterprise software that integrated all business processes and enabled data processing in real time.
 
 <h3 align="center">
 
@@ -16,7 +16,9 @@
 
 </h3>
 
-> The name is an initialism of the company’s original German name: Systemanalyse Programmentwicklung, which translates to System Analysis Program Development. Today the company’s legal corporate name is SAP SE — SE stands for societas Europaea, a public company registered in accordance with the European Union corporate law.
+The name is an initialism of the company’s original German name: Systemanalyse Programmentwicklung, which translates to System Analysis Program Development. Today the company’s legal corporate name is SAP SE — SE stands for societas Europaea, a public company registered in accordance with the European Union corporate law.
+
+[SAP History](https://www.sap.com/about/company/history.html)
 
 > SAP helps companies and organizations of all sizes and industries run their businesses profitably, adapt continuously, and grow sustainably.
 
@@ -75,7 +77,7 @@ AI built to benefit a company across all processes.
 8. [Configure and manage your SAP BTP applications, services, and subaccounts](https://www.sap.com/products/artificial-intelligence/business-technology-platform.html)
 9. [Analyze supply chain performance and suggest improvements](https://www.sap.com/products/artificial-intelligence/supply-chain.html#plan)
 
-### Customers Satisfaction
+### ![Customers Satisfaction](https://www.sap.com/products/artificial-intelligence.html?url_id=banner-glo-homepage-row1-cta-business-ai-240626)
 
 | **Customer** | **SAP Impact** |
 | ------- | ------- |
@@ -92,15 +94,15 @@ SAP operates in the Software and IT Services Industry. This industry comprises v
 SAP offers AI software solutions to the **Accounting and Finance Industries**. This includes analyzing large volumes of accounts receivable data in determining working capital, enriching planning modes with historical data from source systems to enable fast decision making, simplifying the complexities of predictive analytics, making the financial close more efficient, automating tax compliance, and policy audits.
 
 ### Accounting and Finance Industry Trends
-1. Increased Adoption of AI and Machine Learning
-2. The Rise of Blockchain in Accounting
-3. Cloud Computing Becomes the Norm
-4. Focus on Cybersecurity and Data Privacy
-5. Shift Toward Sustainable Accounting
-6. Data Analytics
-7. Big Data
-8. Remote Work
-9. Increasing statutory and regulatory compliance
+1. **Artificial Intelligence and Machine Learning** - 
+2. **Blockchain in Accounting** - 
+3. **Cloud Computing** - 
+4. **Cybersecurity and Data Privacy** - 
+5. **Shift Toward Sustainable Accounting** - 
+6. **Data Analytics** - 
+7. **Big Data** - 
+8. **Statutory and Regulatory Compliance** - 
+9. **Remote Work** - The traditional workforce is changing. Employees are no longer bound to a physical office, and businesses are taking advantage of this. The accounting industry is no exception and is one industry that can do it more easily than others. 
 
 ### Major Competitors
 
