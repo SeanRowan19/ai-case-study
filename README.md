@@ -32,7 +32,7 @@
 
 ## [SAP Business AI](https://www.sap.com/products/artificial-intelligence.html)
 
-AI built to benefit a company across all processes.
+> AI built to benefit a company across all processes.
 
 ### Core Business Processes
 
@@ -66,7 +66,7 @@ AI built to benefit a company across all processes.
 
 ### [Joule](https://www.sap.com/products/artificial-intelligence/ai-assistant.html)
 
-[Joule](Joule.pdf) is revolutionizing how you interact with your SAP business systems:
+> [Joule](Joule.pdf) is revolutionizing how you interact with your SAP business systems:
 1. [Streamline and automate sourcing events](https://www.sap.com/products/spend-management/category-management-software.html#gen-ai)
 2. [Accelerate audience segmentations](https://www.sap.com/products/crm/customer-data-platform.html)
 3. [Drive intelligent HR self-service capabilities](https://www.sap.com/products/hcm/ai-joule-product-tour.html)
@@ -94,8 +94,8 @@ SAP operates in the Software and IT Services Industry. This industry comprises v
 SAP offers AI software solutions to the **Accounting and Finance Industries**. This includes analyzing large volumes of accounts receivable data in determining working capital, enriching planning modes with historical data from source systems to enable fast decision making, simplifying the complexities of predictive analytics, making the financial close more efficient, automating tax compliance, and policy audits.
 
 ### Accounting and Finance Industry Trends
-1. **Artificial Intelligence and Machine Learning** - Automation can be achieved through software like robotic process automation (RPA), which uses artificial intelligence (AI) bots to complete repetitive tasks quickly and accurately. It can even play a role in analyzing documents and preparing reports. Not only will this save your firm time and money, but it will also free up employees' time so they can focus on higher impact and higher-value activities.
-2. **Blockchain in Accounting** - 
+1. **Artificial Intelligence and Machine Learning** - Automation can be achieved through software like robotic process automation (RPA), which uses artificial intelligence (AI) bots to complete repetitive tasks quickly and accurately. It can even play a role in analyzing documents and preparing reports. Not only will this save your firm time and money, but it will also free up employees' time so they can focus on higher impact and higher-value activities.[@Yanchycki (2024)](https://contentsnare.com/top-accounting-trends/)
+2. **Blockchain in Accounting** - For years, blockchain technology has been synonymous with cryptocurrencies. Regardless of how you view crypto, blockchain has the potential to revolutionize how businesses document transactions and preserve records. It offers better security, transparency, and efficiency than any other digital recordkeeping solution and is something you should explore to boost the trustworthiness of financial reports. [@Controllers Council (2023)](https://controllerscouncil.org/top-12-accounting-trends-in-2024-navigating-the-future-of-finance/)
 3. **Cloud Computing** - 
 4. **Cybersecurity and Data Privacy** - 
 5. **Shift Toward Sustainable Accounting** - 
