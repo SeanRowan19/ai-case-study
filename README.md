@@ -77,7 +77,7 @@
 8. [Configure and manage your SAP BTP applications, services, and subaccounts](https://www.sap.com/products/artificial-intelligence/business-technology-platform.html)
 9. [Analyze supply chain performance and suggest improvements](https://www.sap.com/products/artificial-intelligence/supply-chain.html#plan)
 
-### ![Customers Satisfaction](https://www.sap.com/products/artificial-intelligence.html?url_id=banner-glo-homepage-row1-cta-business-ai-240626)
+### [Customers Satisfaction](https://www.sap.com/products/artificial-intelligence.html?url_id=banner-glo-homepage-row1-cta-business-ai-240626)
 
 | **Customer** | **SAP Impact** |
 | ------- | ------- |
