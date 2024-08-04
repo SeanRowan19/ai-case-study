@@ -187,13 +187,21 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 ### [Impact on the Software and IT Services Industry](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
 
-> SAP has changed the Software and IT Services Industry over the last fifty plus years and has consistently sought to drive positive change through technological innovation, helping companies all over the world transform their business models, focus on sustainability, and improve their productivity. 
+> SAP has changed the Software and IT Services Industry over the last fifty plus years and has consistently sought to drive positive change through technological innovation, helping companies all over the world transform their business models, focus on sustainability, and improve their productivity. SAP began embedding AI into its own application landscape in the mid-2010s. 
 
 > AI has a great many practical applications, and takes many forms. No single AI tool can solve every problem, and SAP clearly distinguishes which of the tools provides the best result for a given use case. Its extensive expertise and industry know-how, paired with an in-depth knowledge of business processes, put SAP miles ahead of the competition: it has already integrated more than 130 AI innovations and functions into its applications. These are currently being leveraged by upwards of 24,000 customers across multiple scenarios – though users are mostly unaware that AI is helping them with their everyday tasks.
 
 > SAP recently launched SAP Business AI that is developed using SAP’s deep process knowledge and a global pool of industry-specific data, customers using cloud applications from SAP stand to benefit from it enormously. SAP Business AI is therefore a key component of all SAP business applications in the cloud. It is designed to be a reliable partner that supports and enhances the human experience. Leveraging the new capabilities AI delivers, our customers will gain credible insights into their processes and be empowered to automate them more easily – in finance, logistics, procurement, sales, and human resources.
 
 >“Generative artificial intelligence” has been on everyone's lips over the last year or so. It’s the next big thing in technology. SAP is currently exploring a host of use cases and ideas that leverage this new technology, with the main aim being to infuse our product portfolio with AI to make it even more powerful and valuable for customers.
+
+### [Business Performance in 2023](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/geschaeftsentwicklung.html)
+
+> SAP’s cloud offerings, and especially RISE with SAP, continued to resonate well with customers and to drive revenue growth. SAP successfully completed a migration of the cloud customer base to a state-of-the-art, harmonized cloud infrastructure, also improved our profitability. Going forward, the cloud business is expected to receive an additional boost through greater use of artificial intelligence (AI), with the potential to nearly double the addressable market.
+
+> To support this goal, SAP has not only entered into joint projects with Google, IBM Watson, and Microsoft, but has also made strategic investments in leading generative AI companies Aleph Alpha, Anthropic, and Cohere. Sapphire Ventures, too, has committed to investing over US$1 billion in AI-powered enterprise technology startups.
+
+> Total revenue grew in the first half of 2023 (see the table on page 5) due to the strong momentum in our cloud business, while software license revenue declined over that period. Within cloud revenue, SAP S/4HANA cloud revenue is up 76% to €1.54 billion. Software licenses revenue fell by a further 20% to €0.59 billion. The share of more predictable revenue increased by one percentage point to 82% in the first half of 2023.
 
 ## Recommendations
 
