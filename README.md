@@ -89,7 +89,7 @@ AI built to benefit a company across all processes.
 
 ### Major Competitors
 
-<img src="microsoft_business-intelligence-analytics-platforms.png" width="100" height="30">
+<img src="microsoft_business-intelligence-analytics-platforms.png" width="100" height="30">(https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microsoft-vs-sap)
 
 [![Microsoft](microsoftrating.png)](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/microsoft)
 -----
