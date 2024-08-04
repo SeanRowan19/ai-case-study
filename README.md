@@ -87,6 +87,21 @@ AI built to benefit a company across all processes.
 
 ## Landscape
 
+SAP operates in the Software and IT Services Industry. This industry comprises various services and products that help organizations manage and optimize their information and business processes. The broader IT services market includes managed services, security services, data management, and cloud computing. 
+
+SAP offers AI software solutions to the accounting and finance industries. This includes analyzing large volumes of accounts receivable data in determining working capital, enriching planning modes with historical data from source systems to enable fast decision making, simplifying the complexities of predictive analytics, making the financial close more efficient, automating tax compliance, and policy audits.
+
+### Trends
+1. Increased Adoption of AI and Machine Learning
+2. The Rise of Blockchain in Accounting
+3. Cloud Computing Becomes the Norm
+4. Focus on Cybersecurity and Data Privacy
+5. Shift Toward Sustainable Accounting
+6. Data Analytics
+7. Big Data
+8. Remote Work
+9. Increasing statutory and regulatory compliance
+
 ### Major Competitors
 
 [<img src="microsoft_business-intelligence-analytics-platforms.png" width="100" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microsoft-vs-sap)
