@@ -222,7 +222,7 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 ## Recommendations
 
-## [Learning](https://learning.sap.com/)
+## [SAP Learning](https://learning.sap.com/)
 
 SAP offers various options to understand how to use the software best suited for your company:
 1. [Former openSAP courses](https://learning.sap.com/courses?page=1&subtype=mooc-content&url_id=text-lsc-homepage)
@@ -256,3 +256,6 @@ Results
 1. [SAP Cover Story](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
 2. [Goldman Sachs Research](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf)
 3. [SAP Invests $1.1B to Become Leader in Business AI](https://accelerationeconomy.com/cloud-wars/cloud-wars-minute/sap-invests-1-1b-to-become-leader-in-business-ai/)
+4. [2023 Results](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/geschaeftsentwicklung.html)
+5. [2024 Results](https://www.sap.com/investors/en/why-invest/recent-results.html)
+6. [Bloomberg Interview](https://www.bloomberg.com/news/videos/2024-07-23/sap-shares-rise-as-cloud-revenue-growth-sustains)
