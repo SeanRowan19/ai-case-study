@@ -94,37 +94,37 @@ AI built to benefit a company across all processes.
 
 -----
 
-[<img src="oracle_1616716149771.png" width="100" height="100">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/oracle-vs-sap)
+[<img src="oracle_1616716149771.png" width="80" height="80">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/oracle-vs-sap)
 
 
 -----
 
-[<]img src="ibm_analytics-business-intelligence-platforms_1616927517897.png" width="100" height="80">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/ibm-vs-sap)
+[<img src="ibm_analytics-business-intelligence-platforms_1616927517897.png" width="80" height="60">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/ibm-vs-sap)
 
 
 -----
 
-[<img src="tableau_business-intelligence-analytics-platforms.png" width="100" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/salesforce-tableau-vs-sap)
+[<img src="tableau_business-intelligence-analytics-platforms.png" width="100" height="40">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/salesforce-tableau-vs-sap)
 
 
 -----
 
-[<img src="sas_1695845087374.png" width="100" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-sas)
+[<img src="sas_1695845087374.png" width="100" height="50">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-sas)
 
 
 -----
 
-[<img src="microstrategy_1698078581784.png" width="100" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microstrategy-vs-sap)
+[<img src="microstrategy_1698078581784.png" width="70" height="70">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microstrategy-vs-sap)
 
 
 -----
 
-[<img src="qlik_analytics-business-intelligence-platforms_1714139444030.png" width="100" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/qlik-vs-sap)
+[<img src="qlik_analytics-business-intelligence-platforms_1714139444030.png" width="80" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/qlik-vs-sap)
 
 
 -----
 
-[<img src="amazon-web-services_1660165755780.png" width="100" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/amazon-web-services-vs-sap)
+[<img src="amazon-web-services_1660165755780.png" width="80" height="40">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/amazon-web-services-vs-sap)
 
 
 -----
@@ -134,7 +134,7 @@ AI built to benefit a company across all processes.
 
 -----
 
-[<img src="zoho_1693496255934.png" width="100" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-zoho)
+[<img src="zoho_1693496255934.png" width="80" height="40">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-zoho)
 
 
 
