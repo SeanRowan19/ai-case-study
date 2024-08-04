@@ -222,6 +222,18 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 ## Recommendations
 
+### Cost
+
+Cost vs. savings: ERP solutions aren’t cheap but, if you do it right, they should pay for themselves. When you are creating an ERP budget, take into consideration how much savings it creates vs. how much it costs to use. If an ERP can pay for itself, then you can justify seemingly high costs. Sometimes the expensive solution might have a more bountiful and faster return on investment (ROI).(https://www.forbes.com/advisor/business/software/sap-competitors/)
+
+### Complexity
+
+SAP has some limitations and is more sophisticated to set up, use and administer compared to top SAP competitors. IT environment: If you don’t have an IT department or it is currently stretched too thin, then SAP might not be the wisest choice. Many SAP competitors offer hosted ERPs, so you don’t have to purchase additional IT equipment or allocate more labor to support it.(https://www.forbes.com/advisor/business/software/sap-competitors/)
+
+### Supply Chain
+
+Vertical market: SAP is not as well suited for businesses that have to deal with supply chain management and logistics as SAP competitors.(https://www.forbes.com/advisor/business/software/sap-competitors/)
+
 ## [SAP Learning](https://learning.sap.com/)
 
 SAP offers various options to understand how to use the software best suited for your company:
@@ -259,3 +271,6 @@ Results
 4. [2023 Results](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/geschaeftsentwicklung.html)
 5. [2024 Results](https://www.sap.com/investors/en/why-invest/recent-results.html)
 6. [Bloomberg Interview](https://www.bloomberg.com/news/videos/2024-07-23/sap-shares-rise-as-cloud-revenue-growth-sustains)
+
+Recommendations
+1. [Top SAP Competitors (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
