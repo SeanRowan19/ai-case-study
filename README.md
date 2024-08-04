@@ -64,18 +64,23 @@
 
 ![Industries](Industries.png)
 
-### [Joule](https://www.sap.com/products/artificial-intelligence/ai-assistant.html)
+## [Generative AI](https://www.sap.com/products/artificial-intelligence/generative-ai.html)
 
-> [Joule](Joule.pdf) is a generative AI copilot that truly understands your business and will revolutionize how you interact with your SAP business systems:
-1. [Streamline and automate sourcing events](https://www.sap.com/products/spend-management/category-management-software.html#gen-ai)
-2. [Accelerate audience segmentations](https://www.sap.com/products/crm/customer-data-platform.html)
-3. [Drive intelligent HR self-service capabilities](https://www.sap.com/products/hcm/ai-joule-product-tour.html)
-4. [Smart features for planning and analytics](https://www.sap.com/products/technology-platform/cloud-analytics/features/generative-ai.html)
-5. [Level up developer productivity](https://www.sap.com/products/technology-platform/developer-tools.html)
-6. [Maximize the efficiency of your business operations](https://www.sap.com/products/erp/s4hana/innovations.html)
-7. [Help sales reps find the optimal product configurations](https://www.sap.com/assetdetail/2024/05/88cc6321-c07e-0010-bca6-c68f7e60039b.html)
-8. [Configure and manage your SAP BTP applications, services, and subaccounts](https://www.sap.com/products/artificial-intelligence/business-technology-platform.html)
-9. [Analyze supply chain performance and suggest improvements](https://www.sap.com/products/artificial-intelligence/supply-chain.html#plan)
+> SAP AI solutions help your business to become more adaptive so you can deliver real-world results – whether it’s turning rigid processes into perceptive workflows, fragile supply chains into proactive ecosystems, or generic interactions into personalized experiences. 
+
+> SAP's latest innovations in generative AI are tailored to optimize every facet of your business:
+> 1. Gain insights into your business objects, such as purchase requisitions, and quickly navigate to applications for your work. Get precise answers to your questions and seamlessly access the content that matters to you with help from [Joule](https://www.sap.com/products/artificial-intelligence/ai-assistant.html).
+> 2. Save time and improve efficiency by streamlining and automating HR processes with **Joule** (*see linked text above*).
+> 3. Develop effective job descriptions that align with necessary skills, incorporate key terminology while avoiding unconscious bias, and automatically integrate essential content.
+> 4. Accelerate strategy and planning processes across multiple categories with AI. Reduce onboarding time and reliance on more senior category managers, and gain time per category and adapt to market change with insight and agility. Use **Joule** (*see linked text above*) to create sourcing events in half the time versus with manual efforts.
+> 5. Give your sales, service, and e-commerce teams access to AI from the platforms they use every day through a standalone app and **Joule** (*see linked text above*). You can combine business data with AI models to create more efficient teams and deliver exceptional experiences.
+> 6. Get a turnkey environment for coding, testing, integrations, and application lifecycle management with **Joule's** (*see linked text above*) generative AI-based code development. Drive secure collaboration with unified governance and simplified application lifecycle management for professional and citizen developers.
+> 7. Quickly identify the best-suited, ready-to-use process models and KPIs for the business with AI capabilities in SAP Signavio solutions. Reduce the need for consulting-heavy services, modelling workshops, and stakeholder interviews to identify the right processes and metrics.
+> 8. Increase productivity by leveraging AI to generate descriptions of any fact sheet. Perform analysis with greater confidence by ensuring more complete data on your enterprise architecture. 
+> 9. Enhance your sustainability reporting process with automated, AI-enabled ESG reporting integrated into SAP Sustainability Control Tower. Streamline the generation of periodic reports, freeing up valuable time on driving sustainability strategy and executing impactful programs.
+> 10. Seamlessly chart business activities to sustainability factors using AI technology in SAP Sustainability Footprint Management. Gain agility and productivity by using AI to help map emission factors from life-cycle assessment (LCA) databases to ERP materials.
+> 11. The consulting capabilities in **Joule** (*see linked text above*) draws insights from thousands of pages of SAP learning content, help, product documentation, and community content. SAP consultants can be more productive, while accessing the latest product and process details when working with end customers. 
+> 12. The ABAP code generation capability in **Joule** (*see linked text above*) can help developers generate, complete, and explain code, as well as create software unit tests. This lets users spend more time building and deploying features rather than manually writing lines of code.
 
 ### [Customers Satisfaction](https://www.sap.com/products/artificial-intelligence.html?url_id=banner-glo-homepage-row1-cta-business-ai-240626)
 
