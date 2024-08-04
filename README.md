@@ -30,9 +30,15 @@
 
 </h4>
 
+### [Integration of AI](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
+
+[Based on research by Goldman Sachs, "AI could drive a 7% increase in global GDP over a ten-year period."](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf)
+
+> SAP began embedding AI into its own application landscape through S/4HANA in the mid-2010s, making machine learning and chatbots available in enterprise applications for the first time. SAP's primary aim and strategy has always been to leverage technology to help solve specific problems and to simplify business processes. It wants humans to stay front and center and be empowered to make informed decisions. 
+
 ## [SAP Business AI](https://www.sap.com/products/artificial-intelligence.html)
 
-> AI built to benefit a company across all processes.
+> AI built to benefit a company across all its processes, no matter the industry or line of business.
 
 ### Core Business Processes
 
@@ -179,15 +185,9 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 ## Results
 
-### [Impact on the Software and IT Services Industry](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time.)
+### [Impact on the Software and IT Services Industry](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
 
 > SAP has changed the Software and IT Services Industry over the last fifty plus years and has consistently sought to drive positive change through technological innovation, helping companies all over the world transform their business models, focus on sustainability, and improve their productivity. 
-
-### [SAP use of AI's Impact of the Accounting and Finance Industries](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time.)
-
-[Based on research by Goldman Sachs, "AI could drive a 7% increase in global GDP over a ten-year period."](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf)
-
-> SAP began embedding AI into its own application landscape in the mid-2010s, making machine learning and chatbots available in enterprise applications for the first time. SAP's primary aim and strategy has always been to leverage technology to help solve specific problems and to simplify business processes. It wants humans to stay front and center and be empowered to make informed decisions. 
 
 > AI has a great many practical applications, and takes many forms. No single AI tool can solve every problem, and SAP clearly distinguishes which of the tools provides the best result for a given use case. Its extensive expertise and industry know-how, paired with an in-depth knowledge of business processes, put SAP miles ahead of the competition: it has already integrated more than 130 AI innovations and functions into its applications. These are currently being leveraged by upwards of 24,000 customers across multiple scenarios – though users are mostly unaware that AI is helping them with their everyday tasks.
 
@@ -210,6 +210,7 @@ SAP offers various options to understand how to use the software best suited for
 [SAP](https://www.sap.com/index.html)
 
 [Timeline](https://skillstek.com/what-is-sap/)
+[Integration of AI](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
 
 Accounting and Finance Industry Trends
 1. [Controllers Council](https://controllerscouncil.org/top-12-accounting-trends-in-2024-navigating-the-future-of-finance/)
@@ -227,6 +228,6 @@ Competitors
 2. [Gartner](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/sap/alternatives)
 
 Results
-1. [SAP Cover Story](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time.)
+1. [SAP Cover Story](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
 2. [Goldman Sachs Research](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf)
 3. [SAP Invests $1.1B to Become Leader in Business AI](https://accelerationeconomy.com/cloud-wars/cloud-wars-minute/sap-invests-1-1b-to-become-leader-in-business-ai/)
