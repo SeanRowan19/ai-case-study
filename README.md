@@ -8,7 +8,7 @@
 
 </h2>
 
-On April 1, 1972, five former IBM employees - Dietmar Hopp, Hasso Plattner, Claus Wellenreuther, Klaus Tschira, and Hans-Werner Hector - started the company SystemAnalyse Programmentwicklung (System Analysis Program Development). Their idea was to create standard enterprise software that integrated all business processes and enabled data processing in real time.
+> On April 1, 1972, five former IBM employees - Dietmar Hopp, Hasso Plattner, Claus Wellenreuther, Klaus Tschira, and Hans-Werner Hector - started the company SystemAnalyse Programmentwicklung (System Analysis Program Development). Their idea was to create standard enterprise software that integrated all business processes and enabled data processing in real time.
 
 <h3 align="center">
 
@@ -16,9 +16,9 @@ On April 1, 1972, five former IBM employees - Dietmar Hopp, Hasso Plattner, Clau
 
 </h3>
 
-The name is an initialism of the company’s original German name: Systemanalyse Programmentwicklung, which translates to System Analysis Program Development. Today the company’s legal corporate name is SAP SE — SE stands for societas Europaea, a public company registered in accordance with the European Union corporate law.
+> The name is an initialism of the company’s original German name: Systemanalyse Programmentwicklung, which translates to System Analysis Program Development. Today the company’s legal corporate name is SAP SE — SE stands for societas Europaea, a public company registered in accordance with the European Union corporate law.
 
-SAP helps companies and organizations of all sizes and industries run their businesses profitably, adapt continuously, and grow sustainably.
+> SAP helps companies and organizations of all sizes and industries run their businesses profitably, adapt continuously, and grow sustainably.
 
 ### Timeline
 
@@ -30,7 +30,7 @@ SAP helps companies and organizations of all sizes and industries run their busi
 
 ## [SAP Business AI](https://www.sap.com/products/artificial-intelligence.html)
 
-AI built to benefit a company across all processes. 
+AI built to benefit a company across all processes.
 
 ### Core Business Processes
 
@@ -89,9 +89,9 @@ AI built to benefit a company across all processes.
 
 SAP operates in the Software and IT Services Industry. This industry comprises various services and products that help organizations manage and optimize their information and business processes. The broader IT services market includes managed services, security services, data management, and cloud computing. 
 
-SAP offers AI software solutions to the accounting and finance industries. This includes analyzing large volumes of accounts receivable data in determining working capital, enriching planning modes with historical data from source systems to enable fast decision making, simplifying the complexities of predictive analytics, making the financial close more efficient, automating tax compliance, and policy audits.
+SAP offers AI software solutions to the **Accounting and Finance Industries**. This includes analyzing large volumes of accounts receivable data in determining working capital, enriching planning modes with historical data from source systems to enable fast decision making, simplifying the complexities of predictive analytics, making the financial close more efficient, automating tax compliance, and policy audits.
 
-### Trends
+### Accounting and Finance Industry Trends
 1. Increased Adoption of AI and Machine Learning
 2. The Rise of Blockchain in Accounting
 3. Cloud Computing Becomes the Norm
@@ -104,52 +104,52 @@ SAP offers AI software solutions to the accounting and finance industries. This 
 
 ### Major Competitors
 
-[<img src="microsoft_business-intelligence-analytics-platforms.png" width="100" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microsoft-vs-sap)
+[<img src="microsoft_business-intelligence-analytics-platforms.png" width="50" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microsoft-vs-sap)
 
 
 -----
 
-[<img src="oracle_1616716149771.png" width="80" height="80">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/oracle-vs-sap)
+[<img src="oracle_1616716149771.png" width="40" height="40">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/oracle-vs-sap)
 
 
 -----
 
-[<img src="ibm_analytics-business-intelligence-platforms_1616927517897.png" width="80" height="60">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/ibm-vs-sap)
+[<img src="ibm_analytics-business-intelligence-platforms_1616927517897.png" width="40" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/ibm-vs-sap)
 
 
 -----
 
-[<img src="tableau_business-intelligence-analytics-platforms.png" width="100" height="40">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/salesforce-tableau-vs-sap)
+[<img src="tableau_business-intelligence-analytics-platforms.png" width="50" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/salesforce-tableau-vs-sap)
 
 
 -----
 
-[<img src="sas_1695845087374.png" width="100" height="50">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-sas)
+[<img src="sas_1695845087374.png" width="50" height="25">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-sas)
 
 
 -----
 
-[<img src="microstrategy_1698078581784.png" width="70" height="70">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microstrategy-vs-sap)
+[<img src="microstrategy_1698078581784.png" width="35" height="35">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microstrategy-vs-sap)
 
 
 -----
 
-[<img src="qlik_analytics-business-intelligence-platforms_1714139444030.png" width="80" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/qlik-vs-sap)
+[<img src="qlik_analytics-business-intelligence-platforms_1714139444030.png" width="40" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/qlik-vs-sap)
 
 
 -----
 
-[<img src="amazon-web-services_1660165755780.png" width="80" height="40">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/amazon-web-services-vs-sap)
+[<img src="amazon-web-services_1660165755780.png" width="40" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/amazon-web-services-vs-sap)
 
 
 -----
 
-[<img src="google_enterprise-mobility-management-suites.png" width="100" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/google-vs-sap)
+[<img src="google_enterprise-mobility-management-suites.png" width="50" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/google-vs-sap)
 
 
 -----
 
-[<img src="zoho_1693496255934.png" width="80" height="40">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-zoho)
+[<img src="zoho_1693496255934.png" width="40" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-zoho)
 
 
 
