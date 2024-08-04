@@ -203,6 +203,23 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 > Total revenue grew in the first half of 2023 (see the table on page 5) due to the strong momentum in our cloud business, while software license revenue declined over that period. Within cloud revenue, SAP S/4HANA cloud revenue is up 76% to €1.54 billion. Software licenses revenue fell by a further 20% to €0.59 billion. The share of more predictable revenue increased by one percentage point to 82% in the first half of 2023.
 
+### [Business Performance in 2024](https://www.sap.com/investors/en/why-invest/recent-results.html)
+
+#### At a Glance
+> Current cloud backlog of €14.8 billion, up 28%, both at nominal and constant currencies
+> Cloud revenue up 25%, underpinned by 33% Cloud ERP Suite revenue growth, all at nominal and constant currencies
+> Total revenue up 10%, both at nominal and constant currencies
+> IFRS cloud gross profit up 29%, non-IFRS cloud gross profit up 28% and up 29% at constant currencies
+> IFRS operating profit down 11% due to restructuring expenses of €0.6 billion. Non-IFRS operating profit up 33% and up 35% at constant currencies
+> 2024 financial outlook reiterated. 2025 operating profit ambition increased to reflect anticipated incremental efficiency gains from expanded transformation program
+
+
+<h6 align="center">
+
+[![Christian Klein on Bloomberg TV](bloomberg.png)](https://www.bloomberg.com/news/videos/2024-07-23/sap-shares-rise-as-cloud-revenue-growth-sustains)
+
+</h6>
+
 ## Recommendations
 
 ## [Learning](https://learning.sap.com/)
