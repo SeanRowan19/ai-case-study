@@ -190,11 +190,16 @@ SAP offers various options to understand how to use the software best suited for
 
 [Timeline](https://skillstek.com/what-is-sap/)
 
-Trends
+Accounting and Finance Industry Trends
 1. [Controllers Council](https://controllerscouncil.org/top-12-accounting-trends-in-2024-navigating-the-future-of-finance/)
 2. [Future of accounting: Top 11 accounting trends](https://contentsnare.com/top-accounting-trends/)
 
-[Role of AI in Accounting and Finance] (https://innovatureinc.com/role-of-ai-in-accounting-and-finance/)
+Future Uses of AI in the Accounting and Finance Industries
+1. [Navigating AI’s Impact on Accounting: Uses, Trends and Tools](https://tipalti.com/accounting-hub/ai-accounting/)
+2. [Guide to AI in accounting: Trends, tools, and stats](https://karbonhq.com/resources/ai-in-accounting/)
+3. [2024 and Beyond: The Impact of AI on the Future of Accounting](https://www.focuspeople.com/2024/02/07/2024-and-beyond-the-impact-of-ai-on-the-future-of-accounting/#:~:text=AI%20is%20changing%20the%20work,skills%20to%20use%20AI%20properly.)
+
+[Role of AI in Accounting and Finance](https://innovatureinc.com/role-of-ai-in-accounting-and-finance/)
 
 Competitors
 1. [Forbes](https://www.forbes.com/advisor/business/software/sap-competitors/#:~:text=There%20are%20many%20SAP%20competitors,about%20the%20best%20ERP%20systems.)
