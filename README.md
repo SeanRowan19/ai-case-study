@@ -94,7 +94,10 @@ SAP operates in the Software and IT Services Industry. This industry comprises v
 SAP offers AI software solutions to the **Accounting and Finance Industries**. This includes analyzing large volumes of accounts receivable data in determining working capital, enriching planning modes with historical data from source systems to enable fast decision making, simplifying the complexities of predictive analytics, making the financial close more efficient, automating tax compliance, and policy audits.
 
 ### Accounting and Finance Industry Trends
-1. **Artificial Intelligence and Machine Learning** - 
+1. **Artificial Intelligence and Machine Learning** - Automation can be achieved through software like robotic process automation (RPA), which uses artificial intelligence (AI) bots to complete repetitive tasks quickly and accurately. It can even play a role in analyzing documents and preparing reports. Not only will this save your firm time and money, but it will also free up employees' time so they can focus on higher impact and higher-value activities. [^1]
+
+[^1]: my first footnote, see [trends](https://contentsnare.com/top-accounting-trends/)
+
 2. **Blockchain in Accounting** - 
 3. **Cloud Computing** - 
 4. **Cybersecurity and Data Privacy** - 
@@ -102,7 +105,9 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 6. **Data Analytics** - 
 7. **Big Data** - 
 8. **Statutory and Regulatory Compliance** - 
-9. **Remote Work** - The traditional workforce is changing. Employees are no longer bound to a physical office, and businesses are taking advantage of this. The accounting industry is no exception and is one industry that can do it more easily than others. 
+9. **Remote Work** - The traditional workforce is changing. Employees are no longer bound to a physical office, and businesses are taking advantage of this. The accounting industry is no exception and is one industry that can do it more easily than others.[@Yanchycki (2024)](https://contentsnare.com/top-accounting-trends/)
+
+[^1]: my first footnote, see [trends](https://contentsnare.com/top-accounting-trends/)
 
 ### Major Competitors
 
