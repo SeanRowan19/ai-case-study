@@ -153,15 +153,9 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 [<img src="zoho_1693496255934.png" width="40" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-zoho)
 
-
-
-### Customers Satisfaction
-
-### Customers Satisfaction
-
-### Customers Satisfaction
-
 ## Results
+
+## Recommendations
 
 ## [Learning](https://learning.sap.com/)
 
