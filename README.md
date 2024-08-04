@@ -8,19 +8,19 @@
 
 </h2>
 
-On April 1, 1972, five former IBM employees - Dietmar Hopp, Hasso Plattner, Claus Wellenreuther, Klaus Tschira, and Hans-Werner Hector - started the company SystemAnalyse Programmentwicklung (System Analysis Program Development). Their idea was to create standard enterprise software that integrated all business processes and enabled data processing in real time.
+[SAP History](https://www.sap.com/about/company/history.html) 
+
+> On April 1, 1972, five former IBM employees - Dietmar Hopp, Hasso Plattner, Claus Wellenreuther, Klaus Tschira, and Hans-Werner Hector - started the company SystemAnalyse Programmentwicklung (System Analysis Program Development). Their idea was to create standard enterprise software that integrated all business processes and enabled data processing in real time.
+
+> The name is an initialism of the company’s original German name: Systemanalyse Programmentwicklung, which translates to System Analysis Program Development. Today the company’s legal corporate name is SAP SE — SE stands for societas Europaea, a public company registered in accordance with the European Union corporate law.
+
+> SAP helps companies and organizations of all sizes and industries run their businesses profitably, adapt continuously, and grow sustainably.
 
 <h3 align="center">
 
 [![The History of SAP](historypic.jpg)](https://youtu.be/g-UaUrETB1E)
 
 </h3>
-
-The name is an initialism of the company’s original German name: Systemanalyse Programmentwicklung, which translates to System Analysis Program Development. Today the company’s legal corporate name is SAP SE — SE stands for societas Europaea, a public company registered in accordance with the European Union corporate law.
-
-[SAP History](https://www.sap.com/about/company/history.html)
-
-> SAP helps companies and organizations of all sizes and industries run their businesses profitably, adapt continuously, and grow sustainably.
 
 ### Timeline
 
@@ -94,10 +94,7 @@ SAP operates in the Software and IT Services Industry. This industry comprises v
 SAP offers AI software solutions to the **Accounting and Finance Industries**. This includes analyzing large volumes of accounts receivable data in determining working capital, enriching planning modes with historical data from source systems to enable fast decision making, simplifying the complexities of predictive analytics, making the financial close more efficient, automating tax compliance, and policy audits.
 
 ### Accounting and Finance Industry Trends
-1. **Artificial Intelligence and Machine Learning** - Automation can be achieved through software like robotic process automation (RPA), which uses artificial intelligence (AI) bots to complete repetitive tasks quickly and accurately. It can even play a role in analyzing documents and preparing reports. Not only will this save your firm time and money, but it will also free up employees' time so they can focus on higher impact and higher-value activities. [^1]
-
-[^1]: my first footnote, see [trends](https://contentsnare.com/top-accounting-trends/)
-
+1. **Artificial Intelligence and Machine Learning** - Automation can be achieved through software like robotic process automation (RPA), which uses artificial intelligence (AI) bots to complete repetitive tasks quickly and accurately. It can even play a role in analyzing documents and preparing reports. Not only will this save your firm time and money, but it will also free up employees' time so they can focus on higher impact and higher-value activities.
 2. **Blockchain in Accounting** - 
 3. **Cloud Computing** - 
 4. **Cybersecurity and Data Privacy** - 
@@ -106,8 +103,6 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 7. **Big Data** - 
 8. **Statutory and Regulatory Compliance** - 
 9. **Remote Work** - The traditional workforce is changing. Employees are no longer bound to a physical office, and businesses are taking advantage of this. The accounting industry is no exception and is one industry that can do it more easily than others.[@Yanchycki (2024)](https://contentsnare.com/top-accounting-trends/)
-
-[^1]: my first footnote, see [trends](https://contentsnare.com/top-accounting-trends/)
 
 ### Major Competitors
 
