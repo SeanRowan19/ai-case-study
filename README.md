@@ -101,7 +101,15 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 5. **Data Analytics** - Data analytics help identify operational inefficiencies and manage risks better. More businesses will invest in data analysis to help with data-backed decisions. Accounting firms can analyze their client's historical performance data to create forecasts for the future. Forecasts allow companies to plan, so they can make more informed decisions when it comes time for critical business choices. [@Yanchycki (2024)](https://contentsnare.com/top-accounting-trends/) 
 6. **Big Data** - Big data is a term used to describe the large volume of data organizations collect from various sources. Accounting firms need to find ways to store this data, mine it for insights, and turn it into actionable knowledge to remain competitive. [@Yanchycki (2024)](https://contentsnare.com/top-accounting-trends/)
 
-### Major Competitors
+### AI Trends in Accounting and Finance Industries
+
+<h5 align="center">
+
+[![AI in Accounting](AccountingAI.png)](https://youtu.be/4p5mC4rEuoQ)
+
+</h5>
+
+### [Major Competitors](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/sap/alternatives)
 
 [<img src="microsoft_business-intelligence-analytics-platforms.png" width="50" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microsoft-vs-sap)
 
