@@ -227,7 +227,7 @@ SAP is the preeminent ERP provider on the market. It is versatile and among the 
 Compared to its competitors: [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 - SAP commands a higher price as it is the preeminent solutions provider. As a result, competitors can meet or even exceed the capabilities of SAP but at a **cost**. 
 - SAP is particularly vast and will require more time and attention from your IT team. SAP is more **sophisticated** to set up, use and administer compared to top SAP competitors.
--  SAP has some limitations when it comes to supply chain management features. Business One is a fully featured ERP solution, but it’s not the strongest in every area compared to SAP competitors.
+-  SAP has some **limitations** when it comes to supply chain management features. Business One is a fully featured ERP solution, but it’s not the strongest in every area compared to SAP competitors.
 
 ### Cost
 
