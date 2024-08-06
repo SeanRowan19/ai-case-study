@@ -4,7 +4,7 @@
 
 <h2 align="center">
 
-<a href="https://www.sap.com/index.html">![SAP Logo](Images & Videos/newsaplogo.jpeg)
+<a href="https://www.sap.com/index.html">![SAP Logo](Images/newsaplogo.jpeg)
 
 </h2>
 
@@ -18,7 +18,7 @@
 
 <h3 align="center">
 
-[![The History of SAP](Images & Videos/historypic.jpg)](https://youtu.be/g-UaUrETB1E)
+[![The History of SAP](Images/saphistory.jpeg)](https://youtu.be/g-UaUrETB1E)
 
 </h3>
 
@@ -26,7 +26,7 @@
 
 <h4 align="center">
 
-![SAP Timeline](Images & Videos/updatedtimeline.png)
+![SAP Timeline](Images/updatedtimeline.png)
 
 </h4>
 
@@ -44,31 +44,31 @@
 
 #### ERP and Finance
 
-![ERP](Images & Videos/erp.png)
+![ERP](Images/erp.png)
 
 #### Supply Chain
 
-![Supply Chain](Images & Videos/supplychain.png)
+![Supply Chain](Images/supplychain.png)
 
 #### Procurement
 
-![Procurement](Images & Videos/procurement.png)
+![Procurement](Images/procurement.png)
 
 #### Human Resources
 
-![HR](Images & Videos/hr.png)
+![HR](Images/hr.png)
 
 #### Sales and Marketing
 
-![SM](Images & Videos/sm.png)
+![SM](Images/sm.png)
 
 #### IT and Platform
 
-![IT](Images & Videos/last.png)
+![IT](Images/last.png)
 
 #### Industries
 
-![Industries](Images & Videos/Industries.png)
+![Industries](Images/Industries.png)
 
 ## [Generative AI](https://www.sap.com/products/artificial-intelligence/generative-ai.html)
 
@@ -92,11 +92,11 @@
 
 | **Customer** | **SAP Impact** |
 | ------- | ------- |
-| <img src="Images & Videos/chobani-customer-logo.png" width="100" height="25"> | 75% reduction in time spent on expenses |
-| <img src="Images & Videos/Accenture-customer-logo.png" width="100" height="40"> | 80% increase in automatic cash processing |
-| <img src="Images & Videos/delta-customer-logo.png" width="100" height="25"> | Building a skills-based organization|
-| <img src="Images & Videos/team-liquid-customer-logo.png" width="100" height="25"> | 1.6 terabytes of historical game data analyzed |
-| <img src="Images & Videos/henkel-customer-logo.svg" width="100" height="25">| Significantly reduced planning process times |
+| <img src="Images/chobani-customer-logo.png" width="100" height="25"> | 75% reduction in time spent on expenses |
+| <img src="Images/Accenture-customer-logo.png" width="100" height="40"> | 80% increase in automatic cash processing |
+| <img src="Images/delta-customer-logo.png" width="100" height="25"> | Building a skills-based organization|
+| <img src="Images/team-liquid-customer-logo.png" width="100" height="25"> | 1.6 terabytes of historical game data analyzed |
+| <img src="Images/henkel-customer-logo.svg" width="100" height="25">| Significantly reduced planning process times |
 
 ## Landscape
 
@@ -116,7 +116,7 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 <h5 align="center">
 
-[![AI in Accounting](Images & Videos/AccountingAI.png)](https://youtu.be/4p5mC4rEuoQ)
+[![AI in Accounting](Images/AccountingAI.png)](https://youtu.be/4p5mC4rEuoQ)
 
 </h5>
 
@@ -136,52 +136,52 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 ### [Major Competitors](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/sap/alternatives)
 
-[<img src="Images & Videos/microsoft_business-intelligence-analytics-platforms.png" width="50" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microsoft-vs-sap)
+[<img src="Images/microsoft_business-intelligence-analytics-platforms.png" width="50" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microsoft-vs-sap)
 
 
 -----
 
-[<img src="Images & Videos/oracle_1616716149771.png" width="40" height="40">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/oracle-vs-sap)
+[<img src="Images/oracle_1616716149771.png" width="40" height="40">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/oracle-vs-sap)
 
 
 -----
 
-[<img src="Images & Videos/ibm_analytics-business-intelligence-platforms_1616927517897.png" width="40" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/ibm-vs-sap)
+[<img src="Images/ibm_analytics-business-intelligence-platforms_1616927517897.png" width="40" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/ibm-vs-sap)
 
 
 -----
 
-[<img src="Images & Videos/tableau_business-intelligence-analytics-platforms.png" width="50" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/salesforce-tableau-vs-sap)
+[<img src="Images/tableau_business-intelligence-analytics-platforms.png" width="50" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/salesforce-tableau-vs-sap)
 
 
 -----
 
-[<img src="Images & Videos/sas_1695845087374.png" width="50" height="25">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-sas)
+[<img src="Images/sas_1695845087374.png" width="50" height="25">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-sas)
 
 
 -----
 
-[<img src="Images & Videos/microstrategy_1698078581784.png" width="35" height="35">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microstrategy-vs-sap)
+[<img src="Images/microstrategy_1698078581784.png" width="35" height="35">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microstrategy-vs-sap)
 
 
 -----
 
-[<img src="Images & Videos/qlik_analytics-business-intelligence-platforms_1714139444030.png" width="40" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/qlik-vs-sap)
+[<img src="Images/qlik_analytics-business-intelligence-platforms_1714139444030.png" width="40" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/qlik-vs-sap)
 
 
 -----
 
-[<img src="Images & Videos/amazon-web-services_1660165755780.png" width="40" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/amazon-web-services-vs-sap)
+[<img src="Images/amazon-web-services_1660165755780.png" width="40" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/amazon-web-services-vs-sap)
 
 
 -----
 
-[<img src="Images & Videos/google_enterprise-mobility-management-suites.png" width="50" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/google-vs-sap)
+[<img src="Images/google_enterprise-mobility-management-suites.png" width="50" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/google-vs-sap)
 
 
 -----
 
-[<img src="Images & Videos/zoho_1693496255934.png" width="40" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-zoho)
+[<img src="Images/zoho_1693496255934.png" width="40" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-zoho)
 
 ## Results
 
@@ -216,29 +216,27 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 <h6 align="center">
 
-[![Christian Klein on Bloomberg TV](Images & Videos/bloomberg.png)](https://www.bloomberg.com/news/videos/2024-07-23/sap-shares-rise-as-cloud-revenue-growth-sustains)
+[![Christian Klein on Bloomberg TV](Images/bloomberg.png)](https://www.bloomberg.com/news/videos/2024-07-23/sap-shares-rise-as-cloud-revenue-growth-sustains)
 
 </h6>
 
 ## Recommendations
 
-### [SAP Pros](https://www.forbes.com/advisor/business/software/sap-competitors/)
+SAP is the preeminent ERP provider on the market. It is versatile and among the most feature-rich ERP offerings on the market. SAP has ERPs solutions in multiple options, each tailored to meet the needs of providing small and large enterprises alike with all the warehouse management, real-time reporting/analytics/forecasting, finance and accounting, workflow automation, CRM, HR and manufacturing features that you’d need to drive your business. [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 
-> SAP is the preeminent ERP provider on the market. It is versatile and among the most feature-rich ERP offerings on the market. SAP has ERPs solutions in multiple options, each tailored to meet the needs of providing small and large enterprises alike with all the warehouse management, real-time reporting/analytics/forecasting, finance and accounting, workflow automation, CRM, HR and manufacturing features that you’d need to drive your business.
-
-### [SAP Cons](https://www.forbes.com/advisor/business/software/sap-competitors/)
-
-> When you’re the preeminent solutions provider in your field, you can command higher prices for your product. This is the exact case with SAP. Compared to other top SAP competitors, SAP’s ERP products are among the most expensive. There are some SAP competitors that can meet or even exceed the capabilities of SAP but at a lower price point.
-
-> Costs aside, SAP has some limitations and is more sophisticated to set up, use and administer compared to top SAP competitors. While all ERPs are vast solutions, SAP is particularly vast and will require more time and attention from your IT team. And although Business One is a fully featured ERP solution, it’s not the strongest in every area compared to SAP competitors, especially when it comes to supply chain management features.
+Compared to its competitors:
+- SAP commands a higher price as it is the preeminent solutions provider. As a result, competitors can meet or even exceed the capabilities of SAP but at a **cost**. 
+- SAP is particularly vast and will require more time and attention from your IT team. SAP is more **sophisticated** to set up, use and administer compared to top SAP competitors.
+-  SAP has some limitations when it comes to supply chain management features. Business One is a fully featured ERP solution, but it’s not the strongest in every area compared to SAP competitors.
+[@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 
 ### Cost
 
-Cost vs. savings: ERP solutions aren’t cheap but, if you do it right, they should pay for themselves. When you are creating an ERP budget, take into consideration how much savings it creates vs. how much it costs to use. If an ERP can pay for itself, then you can justify seemingly high costs. Sometimes the expensive solution might have a more bountiful and faster return on investment (ROI).(https://www.forbes.com/advisor/business/software/sap-competitors/)
+
 
 ### Complexity
 
-SAP has some limitations and is more sophisticated to set up, use and administer compared to top SAP competitors. IT environment: If you don’t have an IT department or it is currently stretched too thin, then SAP might not be the wisest choice. Many SAP competitors offer hosted ERPs, so you don’t have to purchase additional IT equipment or allocate more labor to support it.(https://www.forbes.com/advisor/business/software/sap-competitors/)
+
 
 ### Supply Chain
 
