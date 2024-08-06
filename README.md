@@ -4,7 +4,7 @@
 
 <h2 align="center">
 
-<a href="https://www.sap.com/index.html">![SAP Logo](newsaplogo.jpeg)
+<a href="https://www.sap.com/index.html">![SAP Logo](Images & Videos/newsaplogo.jpeg)
 
 </h2>
 
@@ -18,7 +18,7 @@
 
 <h3 align="center">
 
-[![The History of SAP](historypic.jpg)](https://youtu.be/g-UaUrETB1E)
+[![The History of SAP](Images & Videos/historypic.jpg)](https://youtu.be/g-UaUrETB1E)
 
 </h3>
 
@@ -26,7 +26,7 @@
 
 <h4 align="center">
 
-![SAP Timeline](updatedtimeline.png)
+![SAP Timeline](Images & Videos/updatedtimeline.png)
 
 </h4>
 
@@ -44,31 +44,31 @@
 
 #### ERP and Finance
 
-![ERP](erp.png)
+![ERP](Images & Videos/erp.png)
 
 #### Supply Chain
 
-![Supply Chain](supplychain.png)
+![Supply Chain](Images & Videos/supplychain.png)
 
 #### Procurement
 
-![Procurement](procurement.png)
+![Procurement](Images & Videos/procurement.png)
 
 #### Human Resources
 
-![HR](hr.png)
+![HR](Images & Videos/hr.png)
 
 #### Sales and Marketing
 
-![SM](sm.png)
+![SM](Images & Videos/sm.png)
 
 #### IT and Platform
 
-![IT](last.png)
+![IT](Images & Videos/last.png)
 
 #### Industries
 
-![Industries](Industries.png)
+![Industries](Images & Videos/Industries.png)
 
 ## [Generative AI](https://www.sap.com/products/artificial-intelligence/generative-ai.html)
 
@@ -92,11 +92,11 @@
 
 | **Customer** | **SAP Impact** |
 | ------- | ------- |
-| <img src="chobani-customer-logo.png" width="100" height="25"> | 75% reduction in time spent on expenses |
-| <img src="Accenture-customer-logo.png" width="100" height="40"> | 80% increase in automatic cash processing |
-| <img src="delta-customer-logo.png" width="100" height="25"> | Building a skills-based organization|
-| <img src="team-liquid-customer-logo.png" width="100" height="25"> | 1.6 terabytes of historical game data analyzed |
-| <img src="henkel-customer-logo.svg" width="100" height="25">| Significantly reduced planning process times |
+| <img src="Images & Videos/chobani-customer-logo.png" width="100" height="25"> | 75% reduction in time spent on expenses |
+| <img src="Images & Videos/Accenture-customer-logo.png" width="100" height="40"> | 80% increase in automatic cash processing |
+| <img src="Images & Videos/delta-customer-logo.png" width="100" height="25"> | Building a skills-based organization|
+| <img src="Images & Videos/team-liquid-customer-logo.png" width="100" height="25"> | 1.6 terabytes of historical game data analyzed |
+| <img src="Images & Videos/henkel-customer-logo.svg" width="100" height="25">| Significantly reduced planning process times |
 
 ## Landscape
 
@@ -116,7 +116,7 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 <h5 align="center">
 
-[![AI in Accounting](AccountingAI.png)](https://youtu.be/4p5mC4rEuoQ)
+[![AI in Accounting](Images & Videos/AccountingAI.png)](https://youtu.be/4p5mC4rEuoQ)
 
 </h5>
 
@@ -136,52 +136,52 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 ### [Major Competitors](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/sap/alternatives)
 
-[<img src="microsoft_business-intelligence-analytics-platforms.png" width="50" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microsoft-vs-sap)
+[<img src="Images & Videos/microsoft_business-intelligence-analytics-platforms.png" width="50" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microsoft-vs-sap)
 
 
 -----
 
-[<img src="oracle_1616716149771.png" width="40" height="40">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/oracle-vs-sap)
+[<img src="Images & Videos/oracle_1616716149771.png" width="40" height="40">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/oracle-vs-sap)
 
 
 -----
 
-[<img src="ibm_analytics-business-intelligence-platforms_1616927517897.png" width="40" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/ibm-vs-sap)
+[<img src="Images & Videos/ibm_analytics-business-intelligence-platforms_1616927517897.png" width="40" height="30">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/ibm-vs-sap)
 
 
 -----
 
-[<img src="tableau_business-intelligence-analytics-platforms.png" width="50" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/salesforce-tableau-vs-sap)
+[<img src="Images & Videos/tableau_business-intelligence-analytics-platforms.png" width="50" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/salesforce-tableau-vs-sap)
 
 
 -----
 
-[<img src="sas_1695845087374.png" width="50" height="25">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-sas)
+[<img src="Images & Videos/sas_1695845087374.png" width="50" height="25">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-sas)
 
 
 -----
 
-[<img src="microstrategy_1698078581784.png" width="35" height="35">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microstrategy-vs-sap)
+[<img src="Images & Videos/microstrategy_1698078581784.png" width="35" height="35">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microstrategy-vs-sap)
 
 
 -----
 
-[<img src="qlik_analytics-business-intelligence-platforms_1714139444030.png" width="40" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/qlik-vs-sap)
+[<img src="Images & Videos/qlik_analytics-business-intelligence-platforms_1714139444030.png" width="40" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/qlik-vs-sap)
 
 
 -----
 
-[<img src="amazon-web-services_1660165755780.png" width="40" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/amazon-web-services-vs-sap)
+[<img src="Images & Videos/amazon-web-services_1660165755780.png" width="40" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/amazon-web-services-vs-sap)
 
 
 -----
 
-[<img src="google_enterprise-mobility-management-suites.png" width="50" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/google-vs-sap)
+[<img src="Images & Videos/google_enterprise-mobility-management-suites.png" width="50" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/google-vs-sap)
 
 
 -----
 
-[<img src="zoho_1693496255934.png" width="40" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-zoho)
+[<img src="Images & Videos/zoho_1693496255934.png" width="40" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-zoho)
 
 ## Results
 
@@ -216,7 +216,7 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 <h6 align="center">
 
-[![Christian Klein on Bloomberg TV](bloomberg.png)](https://www.bloomberg.com/news/videos/2024-07-23/sap-shares-rise-as-cloud-revenue-growth-sustains)
+[![Christian Klein on Bloomberg TV](Images & Videos/bloomberg.png)](https://www.bloomberg.com/news/videos/2024-07-23/sap-shares-rise-as-cloud-revenue-growth-sustains)
 
 </h6>
 
