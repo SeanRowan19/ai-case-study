@@ -237,9 +237,9 @@ Cost vs. savings: ERP solutions aren’t cheap but, if you do it right, they sho
 
 IT environment: If you don’t have an IT department or it is currently stretched too thin, then SAP might not be the wisest choice. Many SAP competitors offer hosted ERPs, so you don’t have to purchase additional IT equipment or allocate more labor to support it. [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 
-### Supply Chain
+### Limitations
 
-Vertical market: SAP is not as well suited for businesses that have to deal with supply chain management and logistics as SAP competitors.(https://www.forbes.com/advisor/business/software/sap-competitors/)
+Vertical market: SAP is not as well suited for businesses that have to deal with supply chain management and logistics as SAP competitors. [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 
 ## [SAP Learning](https://learning.sap.com/)
 
