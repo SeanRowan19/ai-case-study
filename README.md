@@ -224,19 +224,18 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 SAP is the preeminent ERP provider on the market. It is versatile and among the most feature-rich ERP offerings on the market. SAP has ERPs solutions in multiple options, each tailored to meet the needs of providing small and large enterprises alike with all the warehouse management, real-time reporting/analytics/forecasting, finance and accounting, workflow automation, CRM, HR and manufacturing features that you’d need to drive your business. [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 
-Compared to its competitors:
+Compared to its competitors: [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 - SAP commands a higher price as it is the preeminent solutions provider. As a result, competitors can meet or even exceed the capabilities of SAP but at a **cost**. 
 - SAP is particularly vast and will require more time and attention from your IT team. SAP is more **sophisticated** to set up, use and administer compared to top SAP competitors.
 -  SAP has some limitations when it comes to supply chain management features. Business One is a fully featured ERP solution, but it’s not the strongest in every area compared to SAP competitors.
-[@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 
 ### Cost
 
-
+Cost vs. savings: ERP solutions aren’t cheap but, if you do it right, they should pay for themselves. When you are creating an ERP budget, take into consideration how much savings it creates vs. how much it costs to use. If an ERP can pay for itself, then you can justify seemingly high costs. Sometimes the expensive solution might have a more bountiful and faster return on investment (ROI). [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 
 ### Complexity
 
-
+IT environment: If you don’t have an IT department or it is currently stretched too thin, then SAP might not be the wisest choice. Many SAP competitors offer hosted ERPs, so you don’t have to purchase additional IT equipment or allocate more labor to support it. [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 
 ### Supply Chain
 
