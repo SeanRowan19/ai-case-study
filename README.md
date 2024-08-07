@@ -224,23 +224,22 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 SAP is the preeminent ERP provider on the market. It is versatile and among the most feature-rich ERP offerings on the market. SAP has ERPs solutions in multiple options, each tailored to meet the needs of providing small and large enterprises alike with all the warehouse management, real-time reporting/analytics/forecasting, finance and accounting, workflow automation, CRM, HR and manufacturing features that you’d need to drive your business. [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 
-Compared to its competitors: [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
+Compared to the competition: [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 - SAP commands a higher price as it is the preeminent solutions provider. As a result, competitors can meet or even exceed the capabilities of SAP but at a **cost**. 
 - SAP is particularly vast and will require more time and attention from your IT team. SAP is more **sophisticated** to set up, use and administer compared to top SAP competitors.
 -  SAP has some **limitations** when it comes to supply chain management features. Business One is a fully featured ERP solution, but it’s not the strongest in every area compared to SAP competitors.
 
 ### Cost
 
-Cost vs. savings: ERP solutions aren’t cheap but, if you do it right, they should pay for themselves. When you are creating an ERP budget, take into consideration how much savings it creates vs. how much it costs to use. If an ERP can pay for itself, then you can justify seemingly high costs. Sometimes the expensive solution might have a more bountiful and faster return on investment (ROI). [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
+ERP systems are not a small investment. When determining the ERP budget, a company should consider how much savings the ERP creates vs. how much it costs to use. If an ERP can pay for itself, then the company can justify seemingly high costs. Sometimes the expensive solution might have a more bountiful and faster return on investment (ROI). [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 
 ### Complexity
 
-IT environment: If you don’t have an IT department or it is currently stretched too thin, then SAP might not be the wisest choice. Many SAP competitors offer hosted ERPs, so you don’t have to purchase additional IT equipment or allocate more labor to support it. [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
-
+If a company lacks a large IT department with additional capacity, SAP might not be the best fit. These companies should look for less complex ERP system alternatives where no additional IT equipment nor labor is needed. [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 
 #### [SAP Learning](https://learning.sap.com/)
 
-Even though SAP can be sophisticated, SAP offers various options to understand how to use the software best suited for your company:
+Even though SAP can be sophisticated, SAP offers various options to understand the best use of the software:
 1. [Former openSAP courses](https://learning.sap.com/courses?page=1&subtype=mooc-content&url_id=text-lsc-homepage)
 2. [Content for SAP partners](https://learning.sap.com/partners)
 3. [SAP Learning Hub](https://www.sap.com/training-certification/learning-hub.html)
@@ -248,7 +247,7 @@ Even though SAP can be sophisticated, SAP offers various options to understand h
 
 ### Limitations
 
-Vertical market: SAP is not as well suited for businesses that have to deal with supply chain management and logistics as SAP competitors. [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
+SAP is not as well suited for businesses that have to deal with supply chain management and logistics as SAP competitors. [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 
 ## Sources
 
