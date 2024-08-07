@@ -250,21 +250,13 @@ Even though SAP can be sophisticated, SAP offers various options to understand t
 
 ### Conclusion
 
-SAP seems to always be one step ahead of the competition and have done a great job providing solutions to their targeted customers. 
+SAP has done a great job identifying new technology (e.g., AI) and targeted customer needs, while always being one step ahead of the competition.
 
-While the cost of implementing SAP seems to be high, the customization options enable the customer to only pay for the upgrades deemed necessary to that customer's needs. 
+The two areas I noted where the competition can have a competitive advantage are cost and complexity. After my review of SAP, it seems the SAP business strategy is to offer customization options ranging in price to enable a customer to tailor the software to their business need. The cost of implementing SAP is directly correlated to the customized upgrades. It appears, the business plan does not include offering off-the-shelf configurations to customers are a cheaper price.
 
-SAP is in the customer satisfaction business which is driven highly by the customization options offered as customers already expect high upfront implementation costs. Customers can tailor the software to their business needs. The more customization, the more expensive. It does not seem that offering off-the-shelf configurations is part of the SAP business strategy as SAP believes customers can save money by only making the necessary upgrades.
+As a result, the areas I identified are not a concern to SAP. It is hard to argue with the SAP business model as they are the preeminent ERP provider on the market.
 
-The cost is driven highly by the customization options. 
-
-Implementation costs are driven highly by the customization options.
-
-Customer satisfaction is driven highly by the customization options.
-
-It does not seem that offering off-the-shelf configurations is part of the SAP business strategy as SAP believes customers can save money by only making the necessary upgrades. Having the customization options is the best way for SAP to 
-
-After going this exercise and getting to the recommendations section, I would have been better suited to pick a company that seems to have the industry figured out. This explains why SAP is preeminent ERP provider on the market. 
+After going this exercise and getting to the recommendations section, I would have been better suited not picking a company that seems to have the industry figured out. 
 
 ## Sources
 
