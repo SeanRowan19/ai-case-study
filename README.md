@@ -227,15 +227,18 @@ SAP is the preeminent ERP provider on the market. It is versatile and among the 
 Compared to the competition: [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 - SAP commands a higher price as it is the preeminent solutions provider. As a result, competitors can meet or even exceed the capabilities of SAP but at a **cost**. 
 - SAP is particularly vast and will require more time and attention from your IT team. SAP is more **sophisticated** to set up, use and administer compared to top SAP competitors.
--  SAP has some **limitations** when it comes to supply chain management features. Business One is a fully featured ERP solution, but it’s not the strongest in every area compared to SAP competitors.
 
 ### Cost
 
 ERP systems are not a small investment. When determining the ERP budget, a company should consider how much savings the ERP creates vs. how much it costs to use. If an ERP can pay for itself, then the company can justify seemingly high costs. Sometimes the expensive solution might have a more bountiful and faster return on investment (ROI). [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
 
+It’s true that implementing SAP solutions requires a sizeable budget (ranked as the second most expensive ERP system). License fees can easily reach into the millions of dollars for large enterprise deployments. Customization services during implementation also drive costs up significantly. However, these investments pay off through increased efficiency and reduced IT expenses over the long run. Conservatively, these efficiency gains can deliver a 3–5% boost to net income annually according to studies. Over a decade, such ongoing savings handily outweigh that big upfront SAP bill. [@Versa Cloud ERP (2023)](https://medium.com/@versaclouderp/is-the-cost-of-sap-worth-it-in-the-long-run-7f8bc101677e#:~:text=Automated%20approvals%20and%20auditing%20controls,Distraction%2Dfree%20reading.)
+
 ### Complexity
 
 If a company lacks a large IT department with additional capacity, SAP might not be the best fit. These companies should look for less complex ERP system alternatives where no additional IT equipment nor labor is needed. [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
+
+Many companies balk at the additional implementation costs that come from customizing SAP to their industry and processes. However, an off-the-shelf configuration won’t address unique compliance needs or legacy system integrations. This results in workarounds down the line or additional bolt-on applications that end up costing even more. A customized SAP implementation, though more expensive upfront, prevents these added expenses later on. [@Versa Cloud ERP (2023)](https://medium.com/@versaclouderp/is-the-cost-of-sap-worth-it-in-the-long-run-7f8bc101677e#:~:text=Automated%20approvals%20and%20auditing%20controls,Distraction%2Dfree%20reading.)
 
 #### [SAP Learning](https://learning.sap.com/)
 
@@ -245,9 +248,23 @@ Even though SAP can be sophisticated, SAP offers various options to understand t
 3. [SAP Learning Hub](https://www.sap.com/training-certification/learning-hub.html)
 4. [SAP Certifications](https://learning.sap.com/certification-transformation)
 
-### Limitations
+### Conclusion
 
-SAP is not as well suited for businesses that have to deal with supply chain management and logistics as SAP competitors. [@Davis (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
+SAP seems to always be one step ahead of the competition and have done a great job providing solutions to their targeted customers. 
+
+While the cost of implementing SAP seems to be high, the customization options enable the customer to only pay for the upgrades deemed necessary to that customer's needs. 
+
+SAP is in the customer satisfaction business which is driven highly by the customization options offered as customers already expect high upfront implementation costs. Customers can tailor the software to their business needs. The more customization, the more expensive. It does not seem that offering off-the-shelf configurations is part of the SAP business strategy as SAP believes customers can save money by only making the necessary upgrades.
+
+The cost is driven highly by the customization options. 
+
+Implementation costs are driven highly by the customization options.
+
+Customer satisfaction is driven highly by the customization options.
+
+It does not seem that offering off-the-shelf configurations is part of the SAP business strategy as SAP believes customers can save money by only making the necessary upgrades. Having the customization options is the best way for SAP to 
+
+After going this exercise and getting to the recommendations section, I would have been better suited to pick a company that seems to have the industry figured out. This explains why SAP is preeminent ERP provider on the market. 
 
 ## Sources
 
@@ -281,3 +298,5 @@ Results
 
 Recommendations
 1. [Top SAP Competitors (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
+2. [Advantages of SAP Over Other Systems](https://finprov.com/advantages-of-sap-over-other-erp-systems/#:~:text=While%20SAP%20ranks%20as%20the,for%20businesses%20opting%20for%20SAP.)
+3. [Is the Cost of SAP Worth It in the Long Run?] https://medium.com/@versaclouderp/is-the-cost-of-sap-worth-it-in-the-long-run-7f8bc101677e#:~:text=Automated%20approvals%20and%20auditing%20controls,Distraction%2Dfree%20reading.
