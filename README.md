@@ -271,7 +271,7 @@ Even though SAP can be sophisticated, SAP offers various options to understand t
 
 ### Conclusion
 
-SAP has done a great job identifying new technology (e.g., AI) and targeted customer needs, while always being one step ahead of the competition.
+SAP has done a great job identifying new technology (e.g., AI) and customer needs, while staying one step ahead of the competition.
 
 The two areas I noted where the competition can have a competitive advantage are cost and complexity. After my review of SAP, it seems the SAP business strategy is to offer customization options ranging in price to enable a customer to tailor the software to their business need. The cost of implementing SAP is directly correlated to the customized upgrades. It appears, the business plan does not include offering off-the-shelf configurations to customers are a cheaper price.
 
