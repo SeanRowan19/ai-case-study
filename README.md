@@ -22,13 +22,9 @@ Source: [SAP History](https://www.sap.com/about/company/history.html)
 
 [![The History of SAP](Images/saphistory.jpeg)](https://youtu.be/g-UaUrETB1E)
 
-
-https://youtu.be/g-UaUrETB1E
-
-
 </h3>
 
-### [Timeline](https://skillstek.com/what-is-sap/)
+### Timeline
 
 <h4 align="center">
 
@@ -36,13 +32,19 @@ https://youtu.be/g-UaUrETB1E
 
 </h4>
 
-### [Integration of Artificial Intelligence ("AI")](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
+Source: [What is SAP? - History & Introduction](https://skillstek.com/what-is-sap/) 
 
-[Based on research by Goldman Sachs, "AI could drive a 7% increase in global GDP over a ten-year period."](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf)
+### Integration of Artificial Intelligence ("AI")
+
+> Based on research by Goldman Sachs, "AI could drive a 7% increase in global GDP over a ten-year period."
+
+Source: [The Potentially Large Effects of Artificial Intelligence on Economic Growth (Briggs/Kodnani)](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf)
 
 > SAP began embedding AI into its own application landscape through S/4HANA in the mid-2010s, making machine learning and chatbots available in enterprise applications for the first time. SAP's primary aim and strategy has always been to leverage technology to help solve specific problems and to simplify business processes. It wants humans to stay front and center and be empowered to make informed decisions. 
 
-## [SAP Business AI](https://www.sap.com/products/artificial-intelligence.html)
+Source: [How SAP is Revolutionizing Business Processes with AI](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
+
+## SAP Business AI
 
 > AI built to benefit a company across all its processes, no matter the industry or line of business.
 
@@ -76,7 +78,9 @@ https://youtu.be/g-UaUrETB1E
 
 ![Industries](Images/Industries.png)
 
-## [Generative AI](https://www.sap.com/products/artificial-intelligence/generative-ai.html)
+Source: [SAP Business AI](https://www.sap.com/products/artificial-intelligence.html)
+
+## Generative AI
 
 > SAP AI solutions help your business to become more adaptive so you can deliver real-world results – whether it’s turning rigid processes into perceptive workflows, fragile supply chains into proactive ecosystems, or generic interactions into personalized experiences. 
 
@@ -94,7 +98,9 @@ https://youtu.be/g-UaUrETB1E
 > 11. The consulting capabilities in **Joule** (*see linked text above*) draws insights from thousands of pages of SAP learning content, help, product documentation, and community content. SAP consultants can be more productive, while accessing the latest product and process details when working with end customers. 
 > 12. The ABAP code generation capability in **Joule** (*see linked text above*) can help developers generate, complete, and explain code, as well as create software unit tests. This lets users spend more time building and deploying features rather than manually writing lines of code.
 
-### [Customers Satisfaction](https://www.sap.com/products/artificial-intelligence.html?url_id=banner-glo-homepage-row1-cta-business-ai-240626)
+Source: [Generative AI](https://www.sap.com/products/artificial-intelligence/generative-ai.html)
+
+### Customers Satisfaction
 
 | **Customer** | **SAP Impact** |
 | ------- | ------- |
@@ -103,6 +109,8 @@ https://youtu.be/g-UaUrETB1E
 | <img src="Images/delta-customer-logo.png" width="100" height="25"> | Building a skills-based organization|
 | <img src="Images/team-liquid-customer-logo.png" width="100" height="25"> | 1.6 terabytes of historical game data analyzed |
 | <img src="Images/henkel-customer-logo.svg" width="100" height="25">| Significantly reduced planning process times |
+
+Source: [SAP Business AI](https://www.sap.com/products/artificial-intelligence.html?url_id=banner-glo-homepage-row1-cta-business-ai-240626)
 
 ## Landscape
 
@@ -140,7 +148,7 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 10. Auditing
 11. Business communications
 
-### [Major Competitors](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/sap/alternatives)
+### Major Competitors
 
 [<img src="Images/microsoft_business-intelligence-analytics-platforms.png" width="50" height="15">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/microsoft-vs-sap)
 
@@ -189,9 +197,11 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 [<img src="Images/zoho_1693496255934.png" width="40" height="20">](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/sap-vs-zoho)
 
+Sources: [SAP Alternatives](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/sap/alternatives)
+
 ## Results
 
-### [Impact on the Software and IT Services Industry](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
+### Impact on the Software and IT Services Industry
 
 > SAP has changed the Software and IT Services Industry over the last fifty plus years and has consistently sought to drive positive change through technological innovation, helping companies all over the world transform their business models, focus on sustainability, and improve their productivity. SAP began embedding AI into its own application landscape in the mid-2010s. 
 
@@ -201,7 +211,9 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 >“Generative artificial intelligence” has been on everyone's lips over the last year or so. It’s the next big thing in technology. SAP is currently exploring a host of use cases and ideas that leverage this new technology, with the main aim being to infuse our product portfolio with AI to make it even more powerful and valuable for customers.
 
-### [Business Performance in 2023](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/geschaeftsentwicklung.html)
+Source: [How SAP is Revolutionizing Business Processes with AI](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
+
+### Business Performance in 2023
 
 > SAP’s cloud offerings, and especially RISE with SAP, continued to resonate well with customers and to drive revenue growth. SAP successfully completed a migration of the cloud customer base to a state-of-the-art, harmonized cloud infrastructure, also improved our profitability. Going forward, the cloud business is expected to receive an additional boost through greater use of artificial intelligence (AI), with the potential to nearly double the addressable market.
 
@@ -209,7 +221,9 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 
 > Total revenue grew in the first half of 2023 (see the table on page 5) due to the strong momentum in our cloud business, while software license revenue declined over that period. Within cloud revenue, SAP S/4HANA cloud revenue is up 76% to €1.54 billion. Software licenses revenue fell by a further 20% to €0.59 billion. The share of more predictable revenue increased by one percentage point to 82% in the first half of 2023.
 
-### [Business Performance in 2024](https://www.sap.com/investors/en/why-invest/recent-results.html)
+Source: [Business Performance in 2023](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/geschaeftsentwicklung.html)
+
+### Business Performance in 2024
 
 #### At a Glance
 > - Current cloud backlog of €14.8 billion, up 28%, both at nominal and constant currencies
@@ -219,6 +233,7 @@ SAP offers AI software solutions to the **Accounting and Finance Industries**. T
 > - IFRS operating profit down 11% due to restructuring expenses of €0.6 billion. Non-IFRS operating profit up 33% and up 35% at constant currencies
 > - 2024 financial outlook reiterated. 2025 operating profit ambition increased to reflect anticipated incremental efficiency gains from expanded transformation program
 
+Source: [Business Performance in 2024](https://www.sap.com/investors/en/why-invest/recent-results.html)
 
 <h6 align="center">
 
@@ -264,37 +279,30 @@ As a result, the areas I identified are not a concern to SAP. It is hard to argu
 
 After going this exercise and getting to the recommendations section, I would have been better suited not picking a company that seems to have the industry figured out. 
 
-## Sources
+## Resources
 
-[SAP](https://www.sap.com/index.html)
-
-[Timeline](https://skillstek.com/what-is-sap/)
-[Integration of AI](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
-
-Accounting and Finance Industry Trends
-1. [Controllers Council](https://controllerscouncil.org/top-12-accounting-trends-in-2024-navigating-the-future-of-finance/)
-2. [Future of accounting: Top 11 accounting trends](https://contentsnare.com/top-accounting-trends/)
-
-Future Uses of AI in the Accounting and Finance Industries
-1. [Navigating AI’s Impact on Accounting: Uses, Trends and Tools](https://tipalti.com/accounting-hub/ai-accounting/)
-2. [Guide to AI in accounting: Trends, tools, and stats](https://karbonhq.com/resources/ai-in-accounting/)
-3. [2024 and Beyond: The Impact of AI on the Future of Accounting](https://www.focuspeople.com/2024/02/07/2024-and-beyond-the-impact-of-ai-on-the-future-of-accounting/#:~:text=AI%20is%20changing%20the%20work,skills%20to%20use%20AI%20properly.)
-
-[Role of AI in Accounting and Finance](https://innovatureinc.com/role-of-ai-in-accounting-and-finance/)
-
-Competitors
-1. [Forbes](https://www.forbes.com/advisor/business/software/sap-competitors/#:~:text=There%20are%20many%20SAP%20competitors,about%20the%20best%20ERP%20systems.)
-2. [Gartner](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/sap/alternatives)
-
-Results
-1. [SAP Cover Story](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
-2. [Goldman Sachs Research](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf)
-3. [SAP Invests $1.1B to Become Leader in Business AI](https://accelerationeconomy.com/cloud-wars/cloud-wars-minute/sap-invests-1-1b-to-become-leader-in-business-ai/)
-4. [2023 Results](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/geschaeftsentwicklung.html)
-5. [2024 Results](https://www.sap.com/investors/en/why-invest/recent-results.html)
-6. [Bloomberg Interview](https://www.bloomberg.com/news/videos/2024-07-23/sap-shares-rise-as-cloud-revenue-growth-sustains)
-
-Recommendations
-1. [Top SAP Competitors (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
-2. [Advantages of SAP Over Other Systems](https://finprov.com/advantages-of-sap-over-other-erp-systems/#:~:text=While%20SAP%20ranks%20as%20the,for%20businesses%20opting%20for%20SAP.)
-3. [Is the Cost of SAP Worth It in the Long Run?] https://medium.com/@versaclouderp/is-the-cost-of-sap-worth-it-in-the-long-run-7f8bc101677e#:~:text=Automated%20approvals%20and%20auditing%20controls,Distraction%2Dfree%20reading.
+- [SAP](https://www.sap.com/index.html)
+- [Timeline](https://skillstek.com/what-is-sap/)
+- [Integration of AI](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
+- Accounting and Finance Industry Trends
+    - [Controllers Council](https://controllerscouncil.org/top-12-accounting-trends-in-2024-navigating-the-future-of-finance/)
+    - [Future of accounting: Top 11 accounting trends](https://contentsnare.com/top-accounting-trends/)
+- Future Uses of AI in the Accounting and Finance Industries
+    - [Navigating AI’s Impact on Accounting: Uses, Trends and Tools](https://tipalti.com/accounting-hub/ai-accounting/)
+    - [Guide to AI in accounting: Trends, tools, and stats](https://karbonhq.com/resources/ai-in-accounting/)
+    - [2024 and Beyond: The Impact of AI on the Future of Accounting](https://www.focuspeople.com/2024/02/07/2024-and-beyond-the-impact-of-ai-on-the-future-of-accounting/#:~:text=AI%20is%20changing%20the%20work,skills%20to%20use%20AI%20properly.)
+- [Role of AI in Accounting and Finance](https://innovatureinc.com/role-of-ai-in-accounting-and-finance/)
+- Competitors
+    - [Forbes](https://www.forbes.com/advisor/business/software/sap-competitors/#:~:text=There%20are%20many%20SAP%20competitors,about%20the%20best%20ERP%20systems.)
+    - [Gartner](https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/sap/alternatives)
+- Results
+    - [SAP Cover Story](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/leitartikel.html#:~:text=SAP%20began%20embedding%20AI%20into,applications%20for%20the%20first%20time)
+    - [Goldman Sachs Research](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf)
+    - [SAP Invests $1.1B to Become Leader in Business AI](https://accelerationeconomy.com/cloud-wars/cloud-wars-minute/sap-invests-1-1b-to-become-leader-in-business-ai/)
+    - [2023 Results](https://www.sap.com/investors/en/why-invest/investor-magazine/2023-q2/geschaeftsentwicklung.html)
+    - [2024 Results](https://www.sap.com/investors/en/why-invest/recent-results.html)
+    - [Bloomberg Interview](https://www.bloomberg.com/news/videos/2024-07-23/sap-shares-rise-as-cloud-revenue-growth-sustains)
+- Recommendations
+    - [Top SAP Competitors (2024)](https://www.forbes.com/advisor/business/software/sap-competitors/)
+    - [Advantages of SAP Over Other Systems](https://finprov.com/advantages-of-sap-over-other-erp-systems/#:~:text=While%20SAP%20ranks%20as%20the,for%20businesses%20opting%20for%20SAP.)
+    - [Is the Cost of SAP Worth It in the Long Run?](https://medium.com/@versaclouderp/is-the-cost-of-sap-worth-it-in-the-long-run-7f8bc101677e#:~:text=Automated%20approvals%20and%20auditing%20controls,Distraction%2Dfree%20reading)
